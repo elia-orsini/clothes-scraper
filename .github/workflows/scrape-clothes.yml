@@ -19,6 +19,11 @@ jobs:
         run: |
           yarn --no-package-lock
 
+      - name: install playwright
+        working-directory: ./
+        run: |
+          npx playwright install
+
       - name: scrape clothes
         working-directory: ./
         run: |
