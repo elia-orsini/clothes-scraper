@@ -17,12 +17,20 @@ function scrapeYahoo(url, saveLocation, regex) {
     // Function to navigate to a page and scrape data
     const scrapePage = async (pageUrl) => {
       try {
-        await page.goto(pageUrl);
+        await page.goto(pageUrl, {
+          timeout: 60000,
+          waitUntil: "domcontentloaded",
+        });
         await new Promise((resolve) =>
           setTimeout(() => {
             resolve();
           }, 10000)
         );
+
+        await page.screenshot({
+          path: `screenshot_page_${currentPage}.png`,
+          fullPage: true,
+        });
 
         // Scroll to load all items
         await page.evaluate(async () => {
