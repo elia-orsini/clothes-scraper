@@ -149,7 +149,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -192,48 +192,6 @@
     "auction": null,
     "href": "https://jp.mercari.com/item/m77409711317",
     "translatedName": "Masterpiece MA+ MA Cross LACE STITCHED SHOES"
-  },
-  {
-    "id": "m47239404500",
-    "sellerId": "609597229",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "WARE ウェア スウェットシャツma+ エムエークロス incarnation",
-    "price": "14000",
-    "created": "1733164801",
-    "updated": "1733164801",
-    "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m47239404500_1.jpg?1733164801"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "7",
-        "name": "FREE SIZE"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "7",
-      "name": "FREE SIZE"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "310",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m47239404500",
-    "translatedName": "WARE Wear Sweatshirt ma+ MA Cross incarnation"
   },
   {
     "id": "m65901970400",
@@ -419,7 +377,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m42524970996",
-    "translatedName": "m.a+ belt black size m m.a cross belt"
+    "translatedName": "m.a+ belt black size m m.a+ belt"
   },
   {
     "id": "m28293843027",
