@@ -39,13 +39,13 @@ jobs:
             echo "::set-output name=changed::false"
           fi
 
-      - name: Upload debug artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: debug
-          path: |
-            ./screenshot_*.png
-            ./debug_page_*.html
+      # - name: Upload debug artifacts
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: debug
+      #     path: |
+      #       ./screenshot_*.png
+      #       ./debug_page_*.html
 
 
       - name: commit changes if any

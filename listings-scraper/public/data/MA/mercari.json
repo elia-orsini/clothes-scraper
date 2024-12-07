@@ -84,6 +84,74 @@
     "translatedName": "ma+ MA Cross Chester Coat"
   },
   {
+    "id": "m17792373528",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a＋ エムエークロス　レザー　ベルト　leather belt",
+    "price": "120000",
+    "created": "1733326060",
+    "updated": "1733326060",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m17792373528_1.jpg?1733326060"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "394",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m17792373528",
+    "translatedName": "m.a+ M.A Cross Leather Belt"
+  },
+  {
+    "id": "m38752867453",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a＋ エムエークロス　レザー　トートバッグ leather bag",
+    "price": "250000",
+    "created": "1733325346",
+    "updated": "1733325346",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m38752867453_1.jpg?1733325346"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "353",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m38752867453",
+    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
+  },
+  {
     "id": "m77409711317",
     "sellerId": "764472743",
     "buyerId": "",
@@ -641,14 +709,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "5"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -993,6 +1054,48 @@
     "translatedName": "MA Cross Leather Bangle ma+"
   },
   {
+    "id": "m15399142819",
+    "sellerId": "175475474",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "エムエークロス バックジップブーツ 41 m.a＋",
+    "price": "72100",
+    "created": "1681969445",
+    "updated": "1733402829",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m15399142819_1.jpg?1681992319"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "10",
+        "name": "26.5cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "10",
+      "name": "26.5cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "347",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m15399142819",
+    "translatedName": "M.A.Cross Back Zip Boots 41 m.a+"
+  },
+  {
     "id": "m97880859839",
     "sellerId": "310260597",
     "buyerId": "",
@@ -1150,7 +1253,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m62267111565",
-    "translatedName": "ma+ MA Cross Fabric Heavy Jersey Pants 46"
+    "translatedName": "ma+ MA Cross Woven Heavy Jersey Pants 46"
   },
   {
     "id": "m58182435916",
@@ -1227,5 +1330,173 @@
     "auction": null,
     "href": "https://jp.mercari.com/item/m71462276748",
     "translatedName": "ma+MA Cross Overlock Leather Shirt 44"
+  },
+  {
+    "id": "m99829245060",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA＋ レザーテーラードジャケット　エムエークロス　46",
+    "price": "142200",
+    "created": "1610913736",
+    "updated": "1733159692",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m99829245060_1.jpg?1610913736"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "5",
+    "categoryId": "317",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m99829245060",
+    "translatedName": "MA+ Leather Tailored Jacket MA Cross 46"
+  },
+  {
+    "id": "m93652682645",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA＋ エムエークロス カシミヤジャケット　コート　ロング丈",
+    "price": "291000",
+    "created": "1610667502",
+    "updated": "1733159824",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m93652682645_1.jpg?1610667502"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "4",
+        "name": "L"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "4",
+      "name": "L"
+    },
+    "shippingMethodId": "5",
+    "categoryId": "1140",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m93652682645",
+    "translatedName": "MA+ MA Cross Cashmere Jacket Coat Long Length"
+  },
+  {
+    "id": "m24482474239",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ma＋ ストライプジャケット　エムエークロス　44",
+    "price": "63400",
+    "created": "1588538738",
+    "updated": "1733162586",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m24482474239_1.jpg?1588538738"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "5",
+    "categoryId": "314",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m24482474239",
+    "translatedName": "ma+ Striped Jacket MA Cross 44"
+  },
+  {
+    "id": "m229645871",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ma＋ エムエークロス 特注 チェックフードコート ジャケット",
+    "price": "150000",
+    "created": "1481016226",
+    "updated": "1733564029",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m229645871_1.jpg?1481016226"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "5",
+    "categoryId": "1140",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m229645871",
+    "translatedName": "ma+ MA Cross Custom Check Hooded Coat Jacket"
   }
 ]

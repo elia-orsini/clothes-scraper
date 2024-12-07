@@ -30,11 +30,6 @@ function scrapeYahoo(url, saveLocation, regex) {
           }, 10000)
         );
 
-        await page.screenshot({
-          path: `screenshot_page_${currentPage}.png`,
-          fullPage: true,
-        });
-
         // Scroll to load all items
         await page.evaluate(async () => {
           // Function to scroll down and check if reached the end
@@ -114,8 +109,14 @@ function scrapeYahoo(url, saveLocation, regex) {
     const filteredItems = allItems.filter((item) => regex.test(item.title));
     const sortedItems = filteredItems.sort((a, b) => b.created - a.created);
 
-    for (const item of sortedItems) {
-      item.translatedName = await translate(item.name);
+    try {
+      for (const item of sortedItems) {
+        if (item.title) {
+          item.translatedName = await translate(item.title);
+        }
+      }
+    } catch (error) {
+      console.log("error translating");
     }
 
     fs.writeFileSync(
