@@ -1,12 +1,16 @@
-const { chromium } = require("playwright");
+const { chromium } = require("playwright-extra");
 const fs = require("fs");
 const { translate } = require("./translate");
+const stealth = require("puppeteer-extra-plugin-stealth");
 
 function scrapeYahoo(url, saveLocation, regex) {
   (async () => {
+    chromium.use(stealth());
     const browser = await chromium.launch({ headless: true });
     const page = await browser.newPage();
-    let currentPage = 1;
+    await page.setViewportSize({ width: 1280, height: 720 });
+
+    let currentPage = 0;
     let hasMorePages = true;
     const allItems = [];
 
@@ -14,8 +18,6 @@ function scrapeYahoo(url, saveLocation, regex) {
     const scrapePage = async (pageUrl) => {
       try {
         await page.goto(pageUrl);
-        console.log(`Scraping page: ${pageUrl}`);
-
         await new Promise((resolve) =>
           setTimeout(() => {
             resolve();
@@ -66,6 +68,12 @@ function scrapeYahoo(url, saveLocation, regex) {
           });
         });
 
+        // Check if no items are found
+        if (items.length === 0) {
+          console.log("No items found on the page. Terminating script.");
+          return false; // Stop further page navigation
+        }
+
         // Add the scraped items to the list
         allItems.push(...items);
 
@@ -84,6 +92,8 @@ function scrapeYahoo(url, saveLocation, regex) {
 
     // Loop through all pages until an error is encountered
     while (hasMorePages) {
+      console.log(`Scraping page: ${currentPage}`);
+
       const pageUrl = `${url}?sort=end&order=a&translationType=1&page=${currentPage}`;
       hasMorePages = await scrapePage(pageUrl);
 
