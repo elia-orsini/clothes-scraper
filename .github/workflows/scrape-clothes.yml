@@ -22,7 +22,7 @@ jobs:
       - name: install playwright
         working-directory: ./
         run: |
-          npx playwright install
+          npx playwright install chromium
 
       - name: scrape clothes
         working-directory: ./
