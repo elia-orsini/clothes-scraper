@@ -6,7 +6,9 @@ const stealth = require("puppeteer-extra-plugin-stealth");
 function scrapeYahoo(url, saveLocation, regex) {
   (async () => {
     chromium.use(stealth());
-    const browser = await chromium.launch({ headless: true });
+    const browser = await chromium.launch({
+      headless: true,
+    });
     const page = await browser.newPage();
     await page.setViewportSize({ width: 1280, height: 720 });
 
@@ -18,9 +20,10 @@ function scrapeYahoo(url, saveLocation, regex) {
     const scrapePage = async (pageUrl) => {
       try {
         await page.goto(pageUrl, {
+          referer: pageUrl,
           timeout: 60000,
-          waitUntil: "domcontentloaded",
         });
+
         await new Promise((resolve) =>
           setTimeout(() => {
             resolve();
