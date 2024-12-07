@@ -73,8 +73,8 @@ function scrapeYahoo(url, saveLocation, regex) {
           console.log("No items found on the page. Terminating script.");
           return false; // Stop further page navigation
         }
+        console.log(items);
 
-        // Add the scraped items to the list
         allItems.push(...items);
 
         await new Promise((resolve) =>
@@ -90,7 +90,6 @@ function scrapeYahoo(url, saveLocation, regex) {
       }
     };
 
-    // Loop through all pages until an error is encountered
     while (hasMorePages) {
       console.log(`Scraping page: ${currentPage}`);
 
@@ -98,7 +97,7 @@ function scrapeYahoo(url, saveLocation, regex) {
       hasMorePages = await scrapePage(pageUrl);
 
       if (hasMorePages) {
-        currentPage += 1; // Go to the next page if no error
+        currentPage += 1;
       }
     }
 

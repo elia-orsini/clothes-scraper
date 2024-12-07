@@ -1,5 +1,5 @@
 import MercariData from "../public/data/MA/mercari.json";
-import YahooData from "../public/data/MA/yahoo-jp.json";
+import YahooData from "../public/data/MA/yahoo.json";
 import AllListings from "@components/AllListings";
 
 const IndexPage: React.FC = () => {
