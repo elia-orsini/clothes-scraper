@@ -4,7 +4,7 @@ import { formatDate } from "utils/parseDate";
 const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
   return (
     <div className="flex flex-col p-4" key={key}>
-      <a href={listing.href} target="_blank">
+      <a href={listing.href} target="_blank" rel="noreferrer">
         <div className="relative w-40 h-44 bg-black mx-auto">
           <Image
             className="object-cover"

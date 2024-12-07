@@ -84,7 +84,6 @@ function scrapeYahoo(url, saveLocation, regex) {
           console.log("No items found on the page. Terminating script.");
           return false; // Stop further page navigation
         }
-        console.log(items);
 
         allItems.push(...items);
 
