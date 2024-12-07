@@ -1,0 +1,33 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.next
+/.DS_Store
+/.env*
+
+/listings-scraper/node_modules
+/listings-scraper/.pnp
+/listings-scraper/.pnp.js
+
+# testing
+/listings-scraper/coverage
+
+# next.js
+/listings-scraper/.next/
+/listings-scraper/out/
+
+# production
+/listings-scraper/build
+
+# misc
+/listings-scraper/.DS_Store
+/listings-scraper/.env*
+
+# debug
+/listings-scraper/npm-debug.log*
+/listings-scraper/yarn-debug.log*
+/listings-scraper/yarn-error.log*
+
+/listings-scraper/.vercel
+
