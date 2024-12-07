@@ -1,8 +1,41 @@
 const axios = require("axios");
 const fs = require("fs");
 const { translate } = require("./translate");
+const { chromium } = require("playwright");
 
-function scrapeMercari(brandId, saveLocation, regex) {
+async function getDpop() {
+  const browser = await chromium.launch({ headless: false });
+  const page = await browser.newPage();
+
+  let dpop;
+
+  page.on("request", (request) => {
+    const url = new URL(request.url());
+    if (url.pathname === "/v2/entities:search") {
+      const headers = request.headers();
+
+      if (headers["dpop"]) {
+        dpop = headers["dpop"];
+      }
+    }
+  });
+
+  await page.goto(
+    "https://jp.mercari.com/search?search_condition_id=1cx0zHGJpZB03NjE3"
+  );
+
+  await page.waitForTimeout(5000);
+
+  await page.waitForTimeout(10000);
+
+  await browser.close();
+
+  return dpop;
+}
+
+async function scrapeMercari(brandId, saveLocation, regex) {
+  const dpop = await getDpop();
+
   const config = {
     method: "post",
     url: "https://api.mercari.jp/v2/entities:search",
@@ -11,7 +44,7 @@ function scrapeMercari(brandId, saveLocation, regex) {
       "accept-language": "ja",
       "content-type": "application/json",
       dnt: "1",
-      dpop: "eyJ0eXAiOiJkcG9wK2p3dCIsImFsZyI6IkVTMjU2IiwiandrIjp7ImNydiI6IlAtMjU2Iiwia3R5IjoiRUMiLCJ4Ijoid0V1TlFvVmJKRlppV1g5NnpQRkxSdHdyanZqNWMtb1dya044MzBjU0xHMCIsInkiOiJWRTVFbjlPYVkzQUF0T0c2eEVnVk9NZml6bVBFSVd6SWp5aE5TRDBOR0N3In19.eyJpYXQiOjE3MzM0MTczNTAsImp0aSI6ImY2ZGY0ZDYyLTdmMTQtNDk5Yi05YzUzLTY2YmI5NjljMDFjNCIsImh0dSI6Imh0dHBzOi8vYXBpLm1lcmNhcmkuanAvdjIvZW50aXRpZXM6c2VhcmNoIiwiaHRtIjoiUE9TVCIsInV1aWQiOiJmNDg4NmQ2OC03ZmM1LTQzOTEtYjA0ZS03MTAzOWIyMTE4ZGYifQ.VEMxGVVxMC48FkLSpx9PCxpFk1DrZvNEeBYkTMLnssczVnp0m_oMyuTfAJfx_SgZSbfyymadu5ReJ3fM5hk8jA",
+      dpop: dpop,
       origin: "https://jp.mercari.com",
       priority: "u=1, i",
       referer: "https://jp.mercari.com/",

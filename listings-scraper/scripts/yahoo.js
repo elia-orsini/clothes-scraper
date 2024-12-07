@@ -4,7 +4,7 @@ const { translate } = require("./translate");
 
 function scrapeYahoo(url, saveLocation, regex) {
   (async () => {
-    const browser = await chromium.launch({ headless: true });
+    const browser = await chromium.launch({ headless: false });
     const page = await browser.newPage();
     let currentPage = 1;
     let hasMorePages = true;
