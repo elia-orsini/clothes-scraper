@@ -21,7 +21,7 @@ function scrapeYahoo(url, saveLocation, regex) {
         await new Promise((resolve) =>
           setTimeout(() => {
             resolve();
-          }, 3000)
+          }, 10000)
         );
 
         // Scroll to load all items

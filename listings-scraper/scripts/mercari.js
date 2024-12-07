@@ -24,9 +24,7 @@ async function getDpop() {
     "https://jp.mercari.com/search?search_condition_id=1cx0zHGJpZB03NjE3"
   );
 
-  await page.waitForTimeout(5000);
-
-  await page.waitForTimeout(10000);
+  await page.waitForTimeout(25000);
 
   await browser.close();
 
