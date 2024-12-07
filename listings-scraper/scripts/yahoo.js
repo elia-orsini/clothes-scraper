@@ -4,7 +4,7 @@ const { translate } = require("./translate");
 
 function scrapeYahoo(url, saveLocation, regex) {
   (async () => {
-    const browser = await chromium.launch({ headless: false });
+    const browser = await chromium.launch({ headless: true });
     const page = await browser.newPage();
     let currentPage = 1;
     let hasMorePages = true;
@@ -16,13 +16,10 @@ function scrapeYahoo(url, saveLocation, regex) {
         await page.goto(pageUrl);
         console.log(`Scraping page: ${pageUrl}`);
 
-        // Wait for the items to load
-        await page.waitForSelector(".itemCard__item");
-
         await new Promise((resolve) =>
           setTimeout(() => {
             resolve();
-          }, 2500)
+          }, 3000)
         );
 
         // Scroll to load all items
