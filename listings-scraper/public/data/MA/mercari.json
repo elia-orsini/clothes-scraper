@@ -191,7 +191,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -419,7 +419,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m42524970996",
-    "translatedName": "m.a+ belt black size m m.a+ belt"
+    "translatedName": "m.a+ belt black size m m.a cross belt"
   },
   {
     "id": "m28293843027",
@@ -648,6 +648,40 @@
     "auction": null,
     "href": "https://jp.mercari.com/item/m44251688941",
     "translatedName": "Carpe ma+MA Cross Boots"
+  },
+  {
+    "id": "m99101136568",
+    "sellerId": "910020089",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "00s archive ma＋　maurizio amadie necklace",
+    "price": "29400",
+    "created": "1725112649",
+    "updated": "1733687016",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m99101136568_1.jpg?1725112649"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "376",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m99101136568",
+    "translatedName": "00s archive ma＋　maurizio amadie necklace"
   },
   {
     "id": "m30110996262",
@@ -1260,7 +1294,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m62267111565",
-    "translatedName": "ma+ MA Cross Woven Heavy Jersey Pants 46"
+    "translatedName": "ma+ MA Cross Fabric Heavy Jersey Pants 46"
   },
   {
     "id": "m58182435916",
