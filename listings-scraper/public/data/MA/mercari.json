@@ -613,9 +613,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "カルペ　ma+エムエークロス ブーツ",
-    "price": "55555",
+    "price": "66666",
     "created": "1726118840",
-    "updated": "1732625797",
+    "updated": "1733678122",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m44251688941_1.jpg?1726118840"
     ],
@@ -709,7 +709,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
