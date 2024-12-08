@@ -91,7 +91,7 @@
     "name": "ma+ エムエークロス チェスターコート",
     "price": "9999999",
     "created": "1733486220",
-    "updated": "1733610952",
+    "updated": "1733655656",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m36170316603_1.jpg?1733486220"
     ],
@@ -191,7 +191,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -419,7 +419,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m42524970996",
-    "translatedName": "m.a+ belt black size m m.a+ belt"
+    "translatedName": "m.a+ belt black size m m.a cross belt"
   },
   {
     "id": "m28293843027",
@@ -442,7 +442,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
