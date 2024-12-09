@@ -113,7 +113,7 @@ function scrapeYahoo(url, saveLocation, regex) {
     };
 
     while (hasMorePages) {
-      console.log(`Scraping page: ${currentPage}`);
+      console.log(`scraping yahoo.jp page: ${currentPage}`);
 
       const pageUrl = `${url}?sort=end&order=a&translationType=1&page=${currentPage}`;
       hasMorePages = await scrapePage(pageUrl);

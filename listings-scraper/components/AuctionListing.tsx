@@ -5,10 +5,8 @@ const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
     listing.timeRemaining
   );
 
-  console.log(urgent, listing.timeRemaining);
-
   return (
-    <div className="flex flex-col p-2 sm:p-4 border border-white">
+    <div className="flex flex-col p-2 sm:p-4 border border-white/80">
       <a href={listing.href} target="_blank" rel="noreferrer">
         <div className="relative w-32 h-28 sm:w-40 sm:h-40 bg-black mx-auto">
           <Image
