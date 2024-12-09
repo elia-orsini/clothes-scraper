@@ -8,9 +8,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <Layout>
       <Head>
-        <title>listings scraper</title>
-        <meta name="Description" content="listings scraper" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>clothes scraper</title>
+        <meta name="Description" content="clothes scraper" />
+        <meta property="og:image" content="/icons/clothes-scraper.png" />
+        <link rel="icon" href="/icons/clothes-scraper.png" />
       </Head>
 
       <Component {...pageProps} />
