@@ -2,9 +2,9 @@ import Image from "next/image";
 
 const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
   return (
-    <div className="flex flex-col p-4 border border-black">
+    <div className="flex flex-col p-2 sm:p-4 border border-black">
       <a href={listing.href} target="_blank" rel="noreferrer">
-        <div className="relative w-40 h-44 bg-black mx-auto">
+        <div className="relative w-32 h-28 sm:w-40 sm:h-40 bg-black mx-auto">
           <Image
             className="object-cover"
             fill
@@ -14,7 +14,7 @@ const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
         </div>
       </a>
 
-      <p className="text-sm h-14 font-bold">
+      <p className="text-xs sm:text-sm h-20 sm:h-14 font-bold">
         {listing.translatedName.slice(0,60)}
       </p>
 

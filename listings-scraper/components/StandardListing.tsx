@@ -3,9 +3,9 @@ import { formatDate } from "utils/formatDate";
 
 const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
   return (
-    <div className="flex flex-col p-4 border border-black" key={key}>
+    <div className="flex flex-col p-2 sm:p-4 border border-black" key={key}>
       <a href={listing.href} target="_blank" rel="noreferrer">
-        <div className="relative w-40 h-44 bg-black mx-auto">
+        <div className="relative w-32 h-28 sm:w-40 sm:h-40 bg-black mx-auto">
           <Image
             className="object-cover"
             fill
@@ -15,7 +15,7 @@ const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
         </div>
       </a>
 
-      <p className="text-sm h-14 font-bold">
+      <p className="text-xs sm:text-sm h-14 font-bold">
         {listing.translatedName.slice(0, 60)}
       </p>
 
@@ -23,7 +23,7 @@ const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
 
       <div className="flex flex-row justify-between mt-2">
         <p className="font-bold">
-          {listing.price != "9999999" ? `${listing.price}£` : "?"}
+          {listing.price != 52000 ? `${listing.price}£` : "?"}
         </p>
         <Image
           alt="website icon"

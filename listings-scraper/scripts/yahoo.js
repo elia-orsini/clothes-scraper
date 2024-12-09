@@ -126,12 +126,16 @@ function scrapeYahoo(url, saveLocation, regex) {
       console.log("error translating");
     }
 
-    fs.writeFileSync(
-      saveLocation,
-      JSON.stringify(sortedItems, null, 2),
-      "utf-8"
-    );
-    console.log(`Results saved to ${saveLocation}`);
+    if (sortedItems.length) {
+      fs.writeFileSync(
+        saveLocation,
+        JSON.stringify(sortedItems, null, 2),
+        "utf-8"
+      );
+      console.log(`Results saved to ${saveLocation}`);
+    } else {
+      console.log("Nothing to write on JSON!");
+    }
 
     await browser.close();
   })();
