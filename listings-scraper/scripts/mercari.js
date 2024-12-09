@@ -118,6 +118,7 @@ async function scrapeMercari(brandId, saveLocation, regex) {
       for (const item of sortedItems) {
         item.href = `https://jp.mercari.com/item/${item.id}`;
         item.translatedName = await translate(item.name);
+        item.price = Math.ceil(item.price * 0.0052);
       }
 
       fs.writeFileSync(

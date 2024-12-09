@@ -28,6 +28,12 @@ module.exports = {
         port: "",
         pathname: "**",
       },
+      {
+        protocol: "http",
+        hostname: "img.alicdn.com",
+        port: "",
+        pathname: "**",
+      },
     ],
   },
 };

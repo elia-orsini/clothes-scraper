@@ -15,6 +15,7 @@ function scrapeYahoo(url, saveLocation, regex) {
     let currentPage = 0;
     let hasMorePages = true;
     const allItems = [];
+    const seenUrls = new Set();
 
     // Function to navigate to a page and scrape data
     const scrapePage = async (pageUrl) => {
@@ -80,7 +81,13 @@ function scrapeYahoo(url, saveLocation, regex) {
           return false; // Stop further page navigation
         }
 
-        allItems.push(...items);
+        // Filter out duplicate items based on href
+        for (const item of items) {
+          if (item.href && !seenUrls.has(item.href)) {
+            allItems.push(item);
+            seenUrls.add(item.href); // Add the item's href to the set
+          }
+        }
 
         await new Promise((resolve) =>
           setTimeout(() => {

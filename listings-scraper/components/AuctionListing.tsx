@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
   return (
-    <div className="flex flex-col p-4 ">
+    <div className="flex flex-col p-4 border border-black">
       <a href={listing.href} target="_blank" rel="noreferrer">
         <div className="relative w-40 h-44 bg-black mx-auto">
           <Image
@@ -14,11 +14,22 @@ const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
         </div>
       </a>
 
-      <p className="text-sm h-20">{listing.title}</p>
+      <p className="text-sm h-14 font-bold">
+        {listing.translatedName.slice(0,60)}
+      </p>
 
-      <div className="flex flex-row justify-between mt-4">
-        <p className="text-sm font-bold">{listing.price}</p>
-        <p className="text-sm">{listing.timeRemaining}</p>
+      <p className="text-xs">{listing.timeRemaining} remaining</p>
+
+      <div className="flex flex-row justify-between mt-2">
+        <p className="font-bold">
+          {listing.price != "9999999" ? `${listing.price}£` : "?"}
+        </p>
+        <Image
+          alt="website icon"
+          src={`/icons/yahoo.png`}
+          width={24}
+          height={24}
+        />
       </div>
     </div>
   );

@@ -5,7 +5,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【注意事項あり】MA+ エムエークロス　レザー ジャケット　ヌバック",
-    "price": "150000",
+    "price": 780,
     "created": "1733630316",
     "updated": "1733630316",
     "thumbnails": [
@@ -47,7 +47,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス ウールコート",
-    "price": "58000",
+    "price": 302,
     "created": "1733560212",
     "updated": "1733582771",
     "thumbnails": [
@@ -89,7 +89,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス チェスターコート",
-    "price": "9999999",
+    "price": 52000,
     "created": "1733486220",
     "updated": "1733655656",
     "thumbnails": [
@@ -131,7 +131,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a＋ エムエークロス　レザー　ベルト　leather belt",
-    "price": "120000",
+    "price": 624,
     "created": "1733326060",
     "updated": "1733326060",
     "thumbnails": [
@@ -165,7 +165,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a＋ エムエークロス　レザー　トートバッグ leather bag",
-    "price": "250000",
+    "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
     "thumbnails": [
@@ -191,7 +191,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -199,9 +199,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "名作 MA+ エムエークロス LACE STITCHED SHOES",
-    "price": "175000",
+    "price": 884,
     "created": "1733285949",
-    "updated": "1733633724",
+    "updated": "1733696712",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m77409711317_1.jpg?1733285949"
     ],
@@ -241,7 +241,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　m.a+ ニットコート",
-    "price": "120000",
+    "price": 624,
     "created": "1732882390",
     "updated": "1732882620",
     "thumbnails": [
@@ -283,7 +283,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ silver stitched cross ring クロス　リング",
-    "price": "60000",
+    "price": 312,
     "created": "1732803753",
     "updated": "1732803753",
     "thumbnails": [
@@ -317,7 +317,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【美品】H252DZ DAV0.5 Size44 /m.a+ エムエークロス",
-    "price": "80000",
+    "price": 416,
     "created": "1732723241",
     "updated": "1732723546",
     "thumbnails": [
@@ -359,7 +359,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス 財布 カンガルーレザー",
-    "price": "14000",
+    "price": 73,
     "created": "1732587758",
     "updated": "1733569512",
     "thumbnails": [
@@ -393,7 +393,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+  belt black size m  エムエークロス　ベルト",
-    "price": "69000",
+    "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
     "thumbnails": [
@@ -427,7 +427,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "名作★美品 m.a+ エムエークロス レザー プレート ブレス ブラウン グレー",
-    "price": "34900",
+    "price": 182,
     "created": "1731290515",
     "updated": "1731290515",
     "thumbnails": [
@@ -461,7 +461,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス　ニットワンピース",
-    "price": "22000",
+    "price": 115,
     "created": "1730009403",
     "updated": "1733486600",
     "thumbnails": [
@@ -503,7 +503,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ ma＋　エムエークロス　ビーニー　ワッチ　コットンカシミヤ",
-    "price": "39700",
+    "price": 207,
     "created": "1729780432",
     "updated": "1733332957",
     "thumbnails": [
@@ -537,7 +537,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス m.a+ レザー ベルト 925 編み込み　メッシュベルト",
-    "price": "97700",
+    "price": 509,
     "created": "1727637637",
     "updated": "1733421093",
     "thumbnails": [
@@ -571,7 +571,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+  エムエークロス　レザージャケット",
-    "price": "85000",
+    "price": 442,
     "created": "1726737738",
     "updated": "1727830592",
     "thumbnails": [
@@ -613,7 +613,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "カルペ　ma+エムエークロス ブーツ",
-    "price": "66666",
+    "price": 347,
     "created": "1726118840",
     "updated": "1733678122",
     "thumbnails": [
@@ -655,7 +655,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "00s archive ma＋　maurizio amadie necklace",
-    "price": "29400",
+    "price": 153,
     "created": "1725112649",
     "updated": "1733687016",
     "thumbnails": [
@@ -689,7 +689,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス レザーブレスレット",
-    "price": "52000",
+    "price": 271,
     "created": "1722601103",
     "updated": "1731757064",
     "thumbnails": [
@@ -723,7 +723,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "新品 m.a+ ウォッシャブルレザーテーラードジャケット リバーシブル Mサイズ",
-    "price": "500000",
+    "price": 2600,
     "created": "1715939768",
     "updated": "1730142688",
     "thumbnails": [
@@ -765,7 +765,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス カーボン　パンツ",
-    "price": "58900",
+    "price": 307,
     "created": "1714838747",
     "updated": "1731609552",
     "thumbnails": [
@@ -807,7 +807,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA+ エムエークロス　エンジニアブーツ 赤",
-    "price": "59999",
+    "price": 312,
     "created": "1713958052",
     "updated": "1732369690",
     "thumbnails": [
@@ -849,7 +849,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　ロングコートMa+ Maurizio Amadei",
-    "price": "106000",
+    "price": 552,
     "created": "1711689627",
     "updated": "1717574854",
     "thumbnails": [
@@ -891,7 +891,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【新品未使用】m.a+ フードパーカー T211DHZ",
-    "price": "54000",
+    "price": 281,
     "created": "1708342231",
     "updated": "1733049482",
     "thumbnails": [
@@ -933,7 +933,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[値下げ最後です] ma+ レザージャケット",
-    "price": "85000",
+    "price": 442,
     "created": "1702368025",
     "updated": "1733473851",
     "thumbnails": [
@@ -975,7 +975,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【最終値下げ】M.A+ C374 スパイラルコート",
-    "price": "173000",
+    "price": 900,
     "created": "1699147709",
     "updated": "1733462768",
     "thumbnails": [
@@ -1017,7 +1017,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Mａクロス、ma+ダッフルコート",
-    "price": "118000",
+    "price": 614,
     "created": "1698912742",
     "updated": "1733491478",
     "thumbnails": [
@@ -1059,7 +1059,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": "36000",
+    "price": 188,
     "created": "1691428403",
     "updated": "1732324429",
     "thumbnails": [
@@ -1093,7 +1093,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス バックジップブーツ 41 m.a＋",
-    "price": "72100",
+    "price": 375,
     "created": "1681969445",
     "updated": "1733402829",
     "thumbnails": [
@@ -1135,7 +1135,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【超希少コードバン】m.a+ S2H1 CO slim fit oxford",
-    "price": "9999999",
+    "price": 52000,
     "created": "1668931154",
     "updated": "1733556660",
     "thumbnails": [
@@ -1177,7 +1177,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "試着のみMA+ エムエークロス カンガルーレザー バイカー サイズ44 m.a+",
-    "price": "9999999",
+    "price": 52000,
     "created": "1652954639",
     "updated": "1733265254",
     "thumbnails": [
@@ -1211,7 +1211,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【極上】エムエークロス ZIPテールカラーレザージャケット サイズ４６ m.a+",
-    "price": "80300",
+    "price": 418,
     "created": "1652600066",
     "updated": "1733657551",
     "thumbnails": [
@@ -1253,7 +1253,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス 布帛ヘビージャージーパンツ　46",
-    "price": "64500",
+    "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
     "thumbnails": [
@@ -1287,7 +1287,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m62267111565",
-    "translatedName": "ma+ MA Cross Woven Heavy Jersey Pants 46"
+    "translatedName": "ma+ MA Cross Fabric Heavy Jersey Pants 46"
   },
   {
     "id": "m58182435916",
@@ -1295,7 +1295,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス モンクストラップ 短靴",
-    "price": "37000",
+    "price": 193,
     "created": "1628415717",
     "updated": "1733623458",
     "thumbnails": [
@@ -1337,7 +1337,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+エムエークロス オーバーロックレザーシャツ 44",
-    "price": "142300",
+    "price": 740,
     "created": "1610913988",
     "updated": "1733159635",
     "thumbnails": [
@@ -1371,7 +1371,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA＋ レザーテーラードジャケット　エムエークロス　46",
-    "price": "142200",
+    "price": 740,
     "created": "1610913736",
     "updated": "1733159692",
     "thumbnails": [
@@ -1413,7 +1413,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA＋ エムエークロス カシミヤジャケット　コート　ロング丈",
-    "price": "291000",
+    "price": 1514,
     "created": "1610667502",
     "updated": "1733159824",
     "thumbnails": [
@@ -1455,7 +1455,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma＋ ストライプジャケット　エムエークロス　44",
-    "price": "63400",
+    "price": 330,
     "created": "1588538738",
     "updated": "1733162586",
     "thumbnails": [
@@ -1497,7 +1497,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma＋ エムエークロス 特注 チェックフードコート ジャケット",
-    "price": "150000",
+    "price": 780,
     "created": "1481016226",
     "updated": "1733564029",
     "thumbnails": [
