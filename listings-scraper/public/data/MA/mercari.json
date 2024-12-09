@@ -168,7 +168,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -402,7 +402,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -429,12 +429,8 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m42524970996",
-<<<<<<< HEAD
     "website": "mercari",
     "location": "japan"
-=======
-    "translatedName": "m.a+ belt black size m m.a+ belt"
->>>>>>> 63c58e66ef107c7605039ef9721408f0e03f6970
   },
   {
     "id": "m28293843027",
@@ -468,12 +464,8 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m28293843027",
-<<<<<<< HEAD
     "website": "mercari",
     "location": "japan"
-=======
-    "translatedName": "Masterpiece★Beautiful m.a+ M.A.Cross Leather Plate Bracelet Brown Gray"
->>>>>>> 63c58e66ef107c7605039ef9721408f0e03f6970
   },
   {
     "id": "m58995854770",
@@ -1377,19 +1369,15 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m68829514254",
-<<<<<<< HEAD
     "website": "mercari",
     "location": "japan"
-=======
-    "translatedName": "[Best quality] M.A.Cross ZIP tail collar leather jacket size 46 m.a+"
->>>>>>> 63c58e66ef107c7605039ef9721408f0e03f6970
   },
   {
     "id": "m62267111565",
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
