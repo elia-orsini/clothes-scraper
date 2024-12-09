@@ -15,7 +15,6 @@ const transformData = (receivedData) => {
     thumbnails: [item.cover_photo?.url || ""],
     categoryId: item.category || "",
     href: `https://www.grailed.com/listings/${item.id}`,
-    description: item.description || "",
     designer: item.designers?.map((designer) => designer.name).join(", ") || "",
     size: item.size || "",
     color: item.color || "",
