@@ -191,7 +191,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -419,7 +419,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m42524970996",
-    "translatedName": "m.a+ belt black size m m.a+ belt"
+    "translatedName": "m.a+ belt black size m m.a cross belt"
   },
   {
     "id": "m28293843027",
@@ -1144,7 +1144,7 @@
     "name": "エムエークロス バックジップブーツ 41 m.a＋",
     "price": 375,
     "created": "1681969445",
-    "updated": "1733402829",
+    "updated": "1733744844",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m15399142819_1.jpg?1681992319"
     ],
@@ -1177,6 +1177,48 @@
     "auction": null,
     "href": "https://jp.mercari.com/item/m15399142819",
     "translatedName": "M.A.Cross Back Zip Boots 41 m.a+"
+  },
+  {
+    "id": "m96918008325",
+    "sellerId": "697465942",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "【中古品】m.a+ エムエークロス パンツ ボトム",
+    "price": 188,
+    "created": "1679632857",
+    "updated": "1733746211",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m96918008325_1.jpg?1679632857"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "338",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m96918008325",
+    "translatedName": "[Used] m.a+ M.A.Cross Pants Bottoms"
   },
   {
     "id": "m97880859839",
@@ -1336,7 +1378,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m62267111565",
-    "translatedName": "ma+ MA Cross Fabric Heavy Jersey Pants 46"
+    "translatedName": "ma+ MA Cross Woven Heavy Jersey Pants 46"
   },
   {
     "id": "m58182435916",
