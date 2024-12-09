@@ -191,7 +191,7 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m38752867453",
-    "translatedName": "m.a+ M.A Cross Leather Tote Bag"
+    "translatedName": "m.a+ M.A.Cross Leather Tote Bag"
   },
   {
     "id": "m77409711317",
@@ -606,6 +606,48 @@
     "auction": null,
     "href": "https://jp.mercari.com/item/m97281101842",
     "translatedName": "m.a+ M.A.Cross Leather Jacket"
+  },
+  {
+    "id": "m46671440345",
+    "sellerId": "475577433",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ma+ レザーシャツ　エムエークロス",
+    "price": 379,
+    "created": "1726484005",
+    "updated": "1733715877",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m46671440345_1.jpg?1726484005"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "10850",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m46671440345",
+    "translatedName": "ma+ Leather Shirt MA Cross"
   },
   {
     "id": "m44251688941",
