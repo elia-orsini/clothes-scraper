@@ -64,12 +64,22 @@ function scrapeYahoo(url, saveLocation, regex) {
               ".itemCard__infoItem:nth-child(1) .g-text--attention"
             );
 
+            const priceAsString = priceElement?.textContent?.trim() || null;
+            const price = priceAsString
+              ? Math.ceil(
+                  parseInt(
+                    priceAsString.replace(/,/g, "").replace(" yen", ""),
+                    10
+                  ) * 0.0052
+                )
+              : "?";
+
             return {
               href:
                 `https://buyee.jp${linkElement?.getAttribute("href")}` || null,
               imageUrl: imgElement?.getAttribute("src") || null,
               title: titleElement?.textContent?.trim() || null,
-              price: priceElement?.textContent?.trim() || null,
+              price: price,
               timeRemaining: timeRemainingElement?.textContent?.trim() || null,
             };
           });
