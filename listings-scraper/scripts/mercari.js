@@ -117,8 +117,10 @@ async function scrapeMercari(brandId, saveLocation, regex) {
 
       for (const item of sortedItems) {
         item.href = `https://jp.mercari.com/item/${item.id}`;
-        item.translatedName = await translate(item.name);
+        item.name = await translate(item.name);
         item.price = Math.ceil(item.price * 0.0052);
+        item.website = "mercari";
+        item.location = "japan";
       }
 
       fs.writeFileSync(
@@ -126,7 +128,7 @@ async function scrapeMercari(brandId, saveLocation, regex) {
         JSON.stringify(sortedItems, null, 2),
         "utf-8"
       );
-      console.log(`Results saved to ${saveLocation}`);
+      console.log("MERCARI ✅");
     })
     .catch((error) => {
       console.error("Error during the request:", error);

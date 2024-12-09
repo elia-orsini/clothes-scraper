@@ -10,6 +10,7 @@ const IndexPage: React.FC = () => {
           <li>mercari</li>
           <li>yahoo auctions</li>
           <li>xianyu</li>
+          <li>grailed</li>
         </ul>
         <p className="text-xl">{`}`}</p>
 

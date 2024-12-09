@@ -16,6 +16,8 @@ const transformData = (receivedData) => {
     thumbnails: [item?.exContent?.picUrl || ""],
     categoryId: item?.clickParam?.args?.tbCatId || "",
     href: `https://2.taobao.com/item-detail?itemId=${item?.clickParam?.args?.item_id}&spm=a2170.xianyu_tbpc_search.0.0`,
+    website: "xianyu",
+    location: "china",
   };
 
   return transformedObject;
@@ -45,7 +47,7 @@ async function scrapeXianyu(keyword, path, regex) {
       );
 
       for (const item of filteredItems) {
-        item.translatedName = await translate(item.name);
+        item.name = await translate(item.name);
         item.price = Math.ceil(item.price * 0.11);
       }
 
@@ -58,6 +60,7 @@ async function scrapeXianyu(keyword, path, regex) {
   await page.waitForTimeout(5000);
 
   fs.writeFileSync(path, JSON.stringify(allResults, null, 2), "utf8");
+  console.log("XIANYU ✅");
 
   // Close the browser after the desired actions
   await browser.close();

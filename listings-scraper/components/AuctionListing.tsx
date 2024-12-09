@@ -21,7 +21,7 @@ const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
       </a>
 
       <p className="text-xs my-2 h-20 sm:h-14 font-bold">
-        {listing.translatedName.slice(0, 60)}
+        {listing.name.slice(0, 60)}
       </p>
 
       <p

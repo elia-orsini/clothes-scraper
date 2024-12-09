@@ -34,6 +34,12 @@ module.exports = {
         port: "",
         pathname: "**",
       },
+      {
+        protocol: "https",
+        hostname: "media-assets.grailed.com",
+        port: "",
+        pathname: "**",
+      },
     ],
   },
 };

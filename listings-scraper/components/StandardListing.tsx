@@ -15,11 +15,12 @@ const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
         </div>
       </a>
 
-      <p className="text-xs my-2 h-14 font-bold">
-        {listing.translatedName.slice(0, 60)}
-      </p>
+      <p className="text-xs my-2 h-14 font-bold">{listing.name.slice(0, 60)}</p>
 
-      <p className="text-xs opacity-80">{formatDate(listing.created)}</p>
+      <div className="flex flex-row justify-between">
+        <p className="text-xs opacity-80">{formatDate(listing.created)}</p>
+        <p className="text-xs opacity-80 lowercase">{listing.location }</p>
+      </div>
 
       <div className="flex flex-row justify-between mt-2">
         <p className="font-bold">
@@ -29,9 +30,7 @@ const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
 
         <Image
           alt="website icon"
-          src={`/icons/${
-            listing.href.includes("mercari") ? "mercari.png" : "xianyu.png"
-          }`}
+          src={`/icons/${listing.website}.png`}
           width={28}
           height={28}
         />
