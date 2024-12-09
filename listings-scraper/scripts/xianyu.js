@@ -12,7 +12,6 @@ const transformData = (receivedData) => {
     price: item?.clickParam?.args?.price || "",
     created:
       Math.floor(Number(item?.clickParam?.args?.publishTime) / 1000) || "",
-    updated: Math.floor(Date.now() / 1000),
     thumbnails: [item?.exContent?.picUrl || ""],
     categoryId: item?.clickParam?.args?.tbCatId || "",
     href: `https://2.taobao.com/item-detail?itemId=${item?.clickParam?.args?.item_id}&spm=a2170.xianyu_tbpc_search.0.0`,
@@ -59,7 +58,10 @@ async function scrapeXianyu(keyword, path, regex) {
 
   await page.waitForTimeout(5000);
 
-  fs.writeFileSync(path, JSON.stringify(allResults, null, 2), "utf8");
+  if (allResults.length) {
+    fs.writeFileSync(path, JSON.stringify(allResults, null, 2), "utf8");
+  }
+
   console.log("XIANYU ✅");
 
   // Close the browser after the desired actions

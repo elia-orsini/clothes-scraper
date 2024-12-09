@@ -11,7 +11,6 @@ const transformData = (receivedData) => {
     name: item.title || "",
     price: item.price || 0,
     created: Math.floor(new Date(item.created_at).getTime() / 1000) || 0,
-    updated: Math.floor(new Date().getTime() / 1000),
     thumbnails: [item.cover_photo?.url || ""],
     categoryId: item.category || "",
     href: `https://www.grailed.com/listings/${item.id}`,

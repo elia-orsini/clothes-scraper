@@ -30,7 +30,7 @@ const Layout: React.FC<{ children: ReactNode }> = ({ children }) => {
         Math.floor(Math.random() * actions.length),
         Math.floor(Math.random() * targets.length),
       ]);
-    }, 3000);
+    }, 2000);
   }, []);
 
   return (
@@ -41,7 +41,7 @@ const Layout: React.FC<{ children: ReactNode }> = ({ children }) => {
         </Link>
 
         <div className="flex flex-row">
-          <div className="relative w-4 h-4 sm:w-8 sm:h-8 -mt-1">
+          <div className="relative w-7 h-7 sm:w-8 sm:h-8 -mt-1.5">
             <Image src="/icons/loading.webp" fill alt="" />
           </div>
           <span className="text-xs my-auto">

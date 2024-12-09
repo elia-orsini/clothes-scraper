@@ -4,9 +4,9 @@ import Link from "next/link";
 const IndexPage: React.FC = () => {
   return (
     <div className="w-full h-screen flex">
-      <div className="text-white z-20 mt-20 ml-2 absolute opacity-80">
-        <p className="text-xl">scraping: {`{`}</p>
-        <ul className="ml-10">
+      <div className="text-white z-20 mt-10 sm:mt-14 ml-2 absolute opacity-80">
+        <p className="text-base sm:text-lg">scraping: {`{`}</p>
+        <ul className="ml-10 text-xs sm:text-base">
           <li>mercari</li>
           <li>yahoo auctions</li>
           <li>xianyu</li>
@@ -14,13 +14,15 @@ const IndexPage: React.FC = () => {
         </ul>
         <p className="text-xl">{`}`}</p>
 
-        <p className="text-xl mt-4">brands: {`{`}</p>
-        <ul className="ml-10">m.a+</ul>
+        <p className="text-base sm:text-lg mt-2 sm:mt-4">brands: {`{`}</p>
+        <ul className="ml-10 text-xs sm:text-base">
+          <li>m.a+</li>
+        </ul>
         <p className="text-xl">{`}`}</p>
       </div>
 
-      <div className="m-auto w-max flex flex-col">
-        <div className="relative w-[90vh] h-[90vh] mx-auto opacity-80">
+      <div className="m-auto w-max flex flex-col overflow-hidden">
+        <div className="relative w-[60vh] h-[60vh] sm:w-[90vh] sm:h-[90vh] mx-auto opacity-80">
           <Image
             className="absolute m-auto"
             alt="clothes scraper logo"
