@@ -168,7 +168,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1043,9 +1043,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Final price reduction] M.A+ C374 Spiral Coat",
-    "price": 900,
+    "price": 936,
     "created": "1699147709",
-    "updated": "1733462768",
+    "updated": "1733782138",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m33995168340_1.jpg?1727070134"
     ],
@@ -1198,49 +1198,6 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m15399142819",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m96918008325",
-    "sellerId": "697465942",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Used] m.a+ M.A.Cross Pants Bottoms",
-    "price": 188,
-    "created": "1679632857",
-    "updated": "1733746211",
-    "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m96918008325_1.jpg?1679632857"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "338",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m96918008325",
     "website": "mercari",
     "location": "japan"
   },
