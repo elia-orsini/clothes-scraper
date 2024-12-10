@@ -1,5 +1,48 @@
 [
   {
+    "id": "m69189193560",
+    "sellerId": "272065404",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ 2010AW BabyCalf Aviator Jacket 48",
+    "price": 1144,
+    "created": "1733798144",
+    "updated": "1733820088",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m69189193560_1.jpg?1733798144"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "10850",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m69189193560",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m83304139247",
     "sellerId": "995334131",
     "buyerId": "",
@@ -168,7 +211,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -402,7 +445,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -468,6 +511,92 @@
     "location": "japan"
   },
   {
+    "id": "m46421844924",
+    "sellerId": "586243788",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "[Price reduced] m.a+/MA Cross long aviator jacket 46",
+    "price": 879,
+    "created": "1731287947",
+    "updated": "1733790392",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m46421844924_1.jpg?1731287947"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "4",
+        "name": "L"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "4",
+      "name": "L"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "335",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m46421844924",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m98630248379",
+    "sellerId": "456274802",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA+ Boots Guidi Carpe Diem",
+    "price": 286,
+    "created": "1730707134",
+    "updated": "1731068449",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m98630248379_1.jpg?1730707134"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "11",
+        "name": "27cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "11",
+      "name": "27cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1487",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m98630248379",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m58995854770",
     "sellerId": "258200987",
     "buyerId": "",
@@ -507,6 +636,49 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m58995854770",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m49858909847",
+    "sellerId": "873246212",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A.Cross Buffalo Leather Boots",
+    "price": 780,
+    "created": "1729823055",
+    "updated": "1729823055",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m49858909847_1.jpg?1729823055"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "137",
+        "name": "25.5cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "137",
+      "name": "25.5cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "8744",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m49858909847",
     "website": "mercari",
     "location": "japan"
   },
@@ -624,6 +796,49 @@
     "location": "japan"
   },
   {
+    "id": "m64071938942",
+    "sellerId": "940935761",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA+ Shirt MA Cross Maurizio Amadei",
+    "price": 562,
+    "created": "1726572585",
+    "updated": "1733439983",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m64071938942_1.jpg?1726572585"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "7",
+        "name": "FREE SIZE"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "7",
+      "name": "FREE SIZE"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1714",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m64071938942",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m46671440345",
     "sellerId": "475577433",
     "buyerId": "",
@@ -710,6 +925,41 @@
     "location": "japan"
   },
   {
+    "id": "m96571726685",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "One of a kind m.a+ Doctor Backpack M.A.Cross",
+    "price": 1272,
+    "created": "1725761520",
+    "updated": "1725789580",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m96571726685_1.jpg?1725761520"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "1735",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m96571726685",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m99101136568",
     "sellerId": "910020089",
     "buyerId": "",
@@ -741,6 +991,49 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m99101136568",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m43425635106",
+    "sellerId": "929067698",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ MA Cross / Stretch Wool Spiral Coat",
+    "price": 559,
+    "created": "1723368089",
+    "updated": "1727303653",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m43425635106_1.jpg?1723368089"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "325",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m43425635106",
     "website": "mercari",
     "location": "japan"
   },
@@ -780,6 +1073,92 @@
     "location": "japan"
   },
   {
+    "id": "m31606674092",
+    "sellerId": "945627504",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A.Cross leather jacket size 46",
+    "price": 769,
+    "created": "1722121594",
+    "updated": "1730286287",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m31606674092_1.jpg?1722121594"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "319",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m31606674092",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m73113352820",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "Extremely rare m.a+ M.A.Cross short hoodie jacket",
+    "price": 520,
+    "created": "1718774473",
+    "updated": "1718774533",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m73113352820_1.jpg?1718774473"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "154",
+        "name": "XS(SS)"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "154",
+      "name": "XS(SS)"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "132",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m73113352820",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m18526562906",
     "sellerId": "784545002",
     "buyerId": "",
@@ -805,14 +1184,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "5"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -826,6 +1198,41 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m18526562906",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m76959417848",
+    "sellerId": "481186971",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "[ma+] MA Cross Doctor Bag",
+    "price": 463,
+    "created": "1715671168",
+    "updated": "1728656250",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m76959417848_1.jpg?1715671168"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "363",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m76959417848",
     "website": "mercari",
     "location": "japan"
   },
@@ -916,6 +1323,84 @@
     "location": "japan"
   },
   {
+    "id": "m16771998935",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A Cross BQ50 small squared small bag",
+    "price": 520,
+    "created": "1712715942",
+    "updated": "1717249124",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m16771998935_1.jpg?1712715942"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "1735",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m16771998935",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m54093685165",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "price": 255,
+    "created": "1711887327",
+    "updated": "1727610257",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m54093685165_1.jpg?1711887327"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "6",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "154",
+        "name": "XS(SS)"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "154",
+      "name": "XS(SS)"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "320",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m54093685165",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m19364197010",
     "sellerId": "692860979",
     "buyerId": "",
@@ -964,9 +1449,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Brand new, unused] m.a+ hooded parka T211DHZ",
-    "price": 281,
+    "price": 276,
     "created": "1708342231",
-    "updated": "1733049482",
+    "updated": "1733870456",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m27190660651_1.jpg?1708342231"
     ],
@@ -1050,9 +1535,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Final price reduction] M.A+ C374 Spiral Coat",
-    "price": 900,
+    "price": 936,
     "created": "1699147709",
-    "updated": "1733462768",
+    "updated": "1733782138",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m33995168340_1.jpg?1727070134"
     ],
@@ -1209,24 +1694,24 @@
     "location": "japan"
   },
   {
-    "id": "m96918008325",
-    "sellerId": "697465942",
+    "id": "m24062492793",
+    "sellerId": "836998257",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Used] m.a+ M.A.Cross Pants Bottoms",
-    "price": 188,
-    "created": "1679632857",
-    "updated": "1733746211",
+    "name": "ma+ Baby calf (reverse) size 43",
+    "price": 936,
+    "created": "1679806764",
+    "updated": "1726750502",
     "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m96918008325_1.jpg?1679632857"
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m24062492793_1.jpg?1679806764"
     ],
     "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
+    "itemConditionId": "3",
     "shippingPayerId": "2",
     "itemSizes": [
       {
-        "id": "3",
-        "name": "M"
+        "id": "12",
+        "name": "27.5cm"
       }
     ],
     "itemBrand": {
@@ -1237,17 +1722,17 @@
     "itemPromotions": [],
     "shopName": "",
     "itemSize": {
-      "id": "3",
-      "name": "M"
+      "id": "12",
+      "name": "27.5cm"
     },
     "shippingMethodId": "14",
-    "categoryId": "338",
+    "categoryId": "347",
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
     "photos": [],
     "auction": null,
-    "href": "https://jp.mercari.com/item/m96918008325",
+    "href": "https://jp.mercari.com/item/m24062492793",
     "website": "mercari",
     "location": "japan"
   },
@@ -1295,6 +1780,49 @@
     "location": "japan"
   },
   {
+    "id": "m29618598870",
+    "sellerId": "851335895",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "[m.a+ Leather Shirt ROSIN GREEN m.a+ Cross]",
+    "price": 676,
+    "created": "1665653854",
+    "updated": "1722462593",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m29618598870_1.jpg?1665653854"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "4",
+        "name": "L"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "4",
+      "name": "L"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "304",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m29618598870",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m73932490022",
     "sellerId": "932552563",
     "buyerId": "",
@@ -1335,9 +1863,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Best quality] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
-    "price": 418,
+    "price": 417,
     "created": "1652600066",
-    "updated": "1733759278",
+    "updated": "1733861412",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m68829514254_1.jpg?1694170314"
     ],
@@ -1423,7 +1951,7 @@
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
     "price": 192,
     "created": "1628415717",
-    "updated": "1733730625",
+    "updated": "1733832383",
     "thumbnails": [
       "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m58182435916_1.jpg?1628415717"
     ],
@@ -1619,6 +2147,49 @@
     "photos": [],
     "auction": null,
     "href": "https://jp.mercari.com/item/m24482474239",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m73876123705",
+    "sellerId": "689657329",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "Total value over 1.5 million yen! The strongest! m.a+ M.A. Cross boots set",
+    "price": 1820,
+    "created": "1587623426",
+    "updated": "1725339308",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m73876123705_1.jpg?1725339255"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "10",
+        "name": "26.5cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "10",
+      "name": "26.5cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "347",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m73876123705",
     "website": "mercari",
     "location": "japan"
   },

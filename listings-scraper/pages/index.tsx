@@ -17,6 +17,8 @@ const IndexPage: React.FC = () => {
         <p className="text-base sm:text-lg mt-2 sm:mt-4">brands: {`{`}</p>
         <ul className="ml-10 text-xs sm:text-base">
           <li>m.a+</li>
+          <li>layer-0</li>
+          <li>taichimurakami</li>
         </ul>
         <p className="text-xl">{`}`}</p>
       </div>

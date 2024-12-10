@@ -31,7 +31,7 @@ async function getDpop() {
   return dpop;
 }
 
-async function scrapeMercari(brandId, saveLocation, regex) {
+async function scrapeMercari(brandId, saveLocation, regex, keyword = "") {
   const dpop = await getDpop();
 
   const config = {
@@ -65,14 +65,14 @@ async function scrapeMercari(brandId, saveLocation, regex) {
       indexRouting: "INDEX_ROUTING_UNSPECIFIED",
       thumbnailTypes: [],
       searchCondition: {
-        keyword: "",
+        keyword: keyword,
         excludeKeyword: "",
         sort: "SORT_SCORE",
         order: "ORDER_DESC",
         status: [],
         sizeId: [],
         categoryId: [],
-        brandId: [brandId],
+        brandId: brandId,
         sellerId: [],
         priceMin: 0,
         priceMax: 0,
@@ -83,7 +83,7 @@ async function scrapeMercari(brandId, saveLocation, regex) {
         colorId: [],
         hasCoupon: false,
         attributes: [],
-        itemTypes: [],
+        itemTypes: ["ITEM_TYPE_MERCARI"],
         skuIds: [],
         shopIds: [],
       },
@@ -107,10 +107,7 @@ async function scrapeMercari(brandId, saveLocation, regex) {
   axios(config)
     .then(async (response) => {
       const filteredItems = response.data.items.filter(
-        (item) =>
-          regex.test(item.name) &&
-          item.status === "ITEM_STATUS_ON_SALE" &&
-          item.itemType === "ITEM_TYPE_MERCARI"
+        (item) => regex.test(item.name) && item.status === "ITEM_STATUS_ON_SALE"
       );
 
       const sortedItems = filteredItems.sort((a, b) => b.created - a.created);

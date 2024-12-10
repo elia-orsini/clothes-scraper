@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ReactNode, useEffect, useState } from "react";
+import Spinner from "./Spinner";
 
 const Layout: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [stateIndex, setStateIndex] = useState([0, 0]);
@@ -41,10 +42,8 @@ const Layout: React.FC<{ children: ReactNode }> = ({ children }) => {
         </Link>
 
         <div className="flex flex-row">
-          <div className="relative w-7 h-7 sm:w-8 sm:h-8 -mt-1.5">
-            <Image src="/icons/loading.webp" fill alt="" />
-          </div>
           <span className="text-xs my-auto">
+            <Spinner />
             ...{actions[stateIndex[0]]} {targets[stateIndex[1]]}
           </span>
         </div>

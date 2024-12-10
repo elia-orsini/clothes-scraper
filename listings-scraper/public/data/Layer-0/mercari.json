@@ -1,0 +1,209 @@
+[
+  {
+    "id": "m23403265882",
+    "sellerId": "377334212",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "LAYER-0 Layer Zero Coat",
+    "price": 312,
+    "created": "1731238989",
+    "updated": "1733312946",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m23403265882_1.jpg?1731238989"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "335",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m23403265882",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m51243664163",
+    "sellerId": "593463229",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "LAYER-0 Italian Leather Jacket L-0 FWM 05/02",
+    "price": 350,
+    "created": "1729075257",
+    "updated": "1733775351",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m51243664163_1.jpg?1729075257"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "10850",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m51243664163",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m46384129723",
+    "sellerId": "996263302",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0 layer zero wool ankle length pants size 46",
+    "price": 239,
+    "created": "1723474824",
+    "updated": "1733824485",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m46384129723_1.jpg?1723474824"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "344",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m46384129723",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m87704807536",
+    "sellerId": "242616814",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "LAYER-0 HORSE R. GREEN Green Hat Archives",
+    "price": 531,
+    "created": "1719137374",
+    "updated": "1732284741",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m87704807536_1.jpg?1719137374"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "373",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m87704807536",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m61014149528",
+    "sellerId": "277860098",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0 Heavy Linen AP Pants *Tried on only, never worn*",
+    "price": 260,
+    "created": "1714490104",
+    "updated": "1733633199",
+    "thumbnails": [
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m61014149528_1.jpg?1714490104"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "1",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "344",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m61014149528",
+    "website": "mercari",
+    "location": "japan"
+  }
+]

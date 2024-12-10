@@ -1,19 +1,30 @@
 import Image from "next/image";
+import { useState } from "react";
+
+import Spinner from "./Spinner";
 
 const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
+  const [loading, setLoading] = useState(true);
+
   const urgent = ["1 hour(s)", "2 hour(s)", "3 hour(s)"].includes(
     listing.timeRemaining
   );
 
   return (
-    <div className="flex flex-col p-2 sm:p-4 border border-white/80">
+    <div className="flex flex-col p-2 sm:p-2 border border-white/80">
       <a href={listing.href} target="_blank" rel="noreferrer">
-        <div className="relative w-32 h-28 sm:w-40 sm:h-40 bg-black mx-auto">
+        <div className="relative h-64 sm:w-48 sm:h-44 bg-black mx-auto">
+          {loading && (
+            <div className="flex items-center text-xs justify-center h-full">
+              <Spinner /> Loading...
+            </div>
+          )}
           <Image
             className="object-cover"
             fill
             src={listing.imageUrl}
             alt="listing image"
+            onLoadingComplete={() => setLoading(false)}
           />
         </div>
       </a>

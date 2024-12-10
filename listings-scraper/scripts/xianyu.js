@@ -56,7 +56,7 @@ async function scrapeXianyu(keyword, path, regex) {
 
   await page.goto(`https://2.taobao.com/search?word=${keyword}`);
 
-  await page.waitForTimeout(5000);
+  await page.waitForTimeout(10000);
 
   if (allResults.length) {
     fs.writeFileSync(path, JSON.stringify(allResults, null, 2), "utf8");
