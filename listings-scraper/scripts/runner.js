@@ -5,6 +5,7 @@ const { scrapeYahoo } = require("./yahoo");
 
 async function runner() {
   // MA
+  console.log("m.a+");
   await scrapeMercari(
     [7617],
     "listings-scraper/public/data/MA/mercari.json",
@@ -27,6 +28,7 @@ async function runner() {
   // );
 
   // LAYER-0
+  console.log("layer-0");
   await scrapeMercari(
     [53417],
     "listings-scraper/public/data/Layer-0/mercari.json",
@@ -49,6 +51,7 @@ async function runner() {
   // );
 
   // TAICHIMURAKAMI
+  console.log("taichimurakami");
   await scrapeMercari(
     [],
     "listings-scraper/public/data/taichimurakami/mercari.json",
