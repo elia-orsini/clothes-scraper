@@ -511,92 +511,6 @@
     "location": "japan"
   },
   {
-    "id": "m46421844924",
-    "sellerId": "586243788",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Price reduced] m.a+/MA Cross long aviator jacket 46",
-    "price": 879,
-    "created": "1731287947",
-    "updated": "1733790392",
-    "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m46421844924_1.jpg?1731287947"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "4",
-        "name": "L"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "4",
-      "name": "L"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "335",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m46421844924",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m98630248379",
-    "sellerId": "456274802",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "MA+ Boots Guidi Carpe Diem",
-    "price": 286,
-    "created": "1730707134",
-    "updated": "1731068449",
-    "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m98630248379_1.jpg?1730707134"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "11",
-        "name": "27cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "11",
-      "name": "27cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "1487",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m98630248379",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m58995854770",
     "sellerId": "258200987",
     "buyerId": "",
@@ -1694,24 +1608,24 @@
     "location": "japan"
   },
   {
-    "id": "m24062492793",
-    "sellerId": "836998257",
+    "id": "m96918008325",
+    "sellerId": "697465942",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ Baby calf (reverse) size 43",
-    "price": 936,
-    "created": "1679806764",
-    "updated": "1726750502",
+    "name": "[Used] m.a+ M.A.Cross Pants Bottoms",
+    "price": 188,
+    "created": "1679632857",
+    "updated": "1733746211",
     "thumbnails": [
-      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m24062492793_1.jpg?1679806764"
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb/photos/m96918008325_1.jpg?1679632857"
     ],
     "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
+    "itemConditionId": "4",
     "shippingPayerId": "2",
     "itemSizes": [
       {
-        "id": "12",
-        "name": "27.5cm"
+        "id": "3",
+        "name": "M"
       }
     ],
     "itemBrand": {
@@ -1722,17 +1636,17 @@
     "itemPromotions": [],
     "shopName": "",
     "itemSize": {
-      "id": "12",
-      "name": "27.5cm"
+      "id": "3",
+      "name": "M"
     },
     "shippingMethodId": "14",
-    "categoryId": "347",
+    "categoryId": "338",
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
     "photos": [],
     "auction": null,
-    "href": "https://jp.mercari.com/item/m24062492793",
+    "href": "https://jp.mercari.com/item/m96918008325",
     "website": "mercari",
     "location": "japan"
   },
