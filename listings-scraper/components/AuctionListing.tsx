@@ -11,9 +11,9 @@ const AuctionListing: React.FC<{ listing: any }> = ({ listing }) => {
   );
 
   return (
-    <div className="flex flex-col p-2 sm:p-2 border border-white/80">
+    <div className="flex flex-col p-2 sm:p-2 border border-white/80 bg-black">
       <a href={listing.href} target="_blank" rel="noreferrer">
-        <div className="relative h-64 sm:w-48 sm:h-44 bg-black mx-auto">
+        <div className="relative h-80 sm:w-full sm:h-52 bg-black mx-auto">
           {loading && (
             <div className="flex items-center text-xs justify-center h-full">
               <Spinner /> Loading...

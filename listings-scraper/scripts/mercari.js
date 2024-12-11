@@ -118,6 +118,10 @@ async function scrapeMercari(brandId, saveLocation, regex, keyword = "") {
         item.price = Math.ceil(item.price * 0.0052);
         item.website = "mercari";
         item.location = "japan";
+        item.thumbnails[0] = item.thumbnails[0].replace(
+          "https://static.mercdn.net/c!/w=240,f=webp/thumb",
+          "https://static.mercdn.net/item/detail/orig"
+        );
       }
 
       fs.writeFileSync(

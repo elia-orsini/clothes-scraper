@@ -34,14 +34,14 @@ const AllListings: React.FC = () => {
         >
           <div className="h-full flex">
             <span
-              className={`border-r border-white px-3 py-1 ${
+              className={`border-r border-white px-3 py-1 bg-black ${
                 !displayAuctions && "bg-white text-black"
               }`}
             >
               listings
             </span>
             <span
-              className={`px-3 py-1 ${
+              className={`px-3 py-1 bg-black ${
                 displayAuctions && "bg-white text-black"
               }`}
             >
@@ -53,11 +53,11 @@ const AllListings: React.FC = () => {
 
       <div className={`w-full ${displayAuctions ? "block" : "hidden"}`}>
         <div className="flex flex-row justify-between text-xs sm:text-sm">
-          <span>
+          <span className="bg-black p-1">
             <span className="font-bold">{data.auctions.flat().length}</span>
             <span className="opacity-80"> listings</span>
           </span>
-          <span className="opacity-80">ordered by most recent</span>
+          <span className="opacity-80 bg-black p-1">ordered by most recent</span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-4 mt-4">
           {data.auctions.flat().map((listing) => (
@@ -68,13 +68,13 @@ const AllListings: React.FC = () => {
 
       <div className={`w-full ${displayAuctions ? "hidden" : "block"}`}>
         <div className="flex flex-row justify-between text-xs sm:text-sm">
-          <span>
+          <span className="bg-black p-1">
             <span className="font-bold">
               {sortedStandardListings.flat().length}
             </span>
             <span className="opacity-80"> listings</span>
           </span>
-          <span className="opacity-80">ordered by most recent</span>
+          <span className="opacity-80 bg-black p-1">ordered by most recent</span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-4 mt-4">
           {sortedStandardListings.map((listing) => (
