@@ -1,48 +1,5 @@
 [
   {
-    "id": "m40337960538",
-    "sellerId": "396748624",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "LAYER-0 Layer Zero Lace-up Boots (Horse Leather) Size 41",
-    "price": 104,
-    "created": "1733915319",
-    "updated": "1733917965",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m40337960538_1.jpg?1733916575"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "9",
-        "name": "26cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "9",
-      "name": "26cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "8744",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m40337960538",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m23403265882",
     "sellerId": "377334212",
     "buyerId": "",

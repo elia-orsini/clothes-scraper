@@ -1141,7 +1141,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1319,7 +1326,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1906,9 +1913,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
-    "price": 192,
+    "price": 191,
     "created": "1628415717",
-    "updated": "1733832383",
+    "updated": "1733934302",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
