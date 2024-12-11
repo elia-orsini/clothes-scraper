@@ -445,7 +445,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1141,7 +1141,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "154",
@@ -1535,9 +1542,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Final price reduction] M.A+ C374 Spiral Coat",
-    "price": 936,
+    "price": 910,
     "created": "1699147709",
-    "updated": "1733782138",
+    "updated": "1733886546",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m33995168340_1.jpg?1727070134"
     ],
