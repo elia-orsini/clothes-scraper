@@ -21,11 +21,11 @@ async function runner() {
     "listings-scraper/public/data/MA/grailed.json",
     /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
   );
-  scrapeYahoo(
-    "https://buyee.jp/item/search/category/2084199118",
-    "listings-scraper/public/data/MA/yahoo.json",
-    /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
-  );
+  // scrapeYahoo(
+  //   "https://buyee.jp/item/search/category/2084199118",
+  //   "listings-scraper/public/data/MA/yahoo.json",
+  //   /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
+  // );
 
   // LAYER-0
   console.log("layer-0");
@@ -44,11 +44,11 @@ async function runner() {
     "listings-scraper/public/data/Layer-0/grailed.json",
     /LAYER-0|layer-0|Layer-0/i
   );
-  scrapeYahoo(
-    "https://buyee.jp/item/search/category/2084199118",
-    "listings-scraper/public/data/Layer-0/yahoo.json",
-    /LAYER-0|layer-0|Layer-0/i
-  );
+  // scrapeYahoo(
+  //   "https://buyee.jp/item/search/category/2084199118",
+  //   "listings-scraper/public/data/Layer-0/yahoo.json",
+  //   /LAYER-0|layer-0|Layer-0/i
+  // );
 
   // TAICHIMURAKAMI
   console.log("taichimurakami");
@@ -68,11 +68,11 @@ async function runner() {
     "listings-scraper/public/data/taichimurakami/grailed.json",
     /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
   );
-  scrapeYahoo(
-    "https://buyee.jp/item/search/category/2084199118",
-    "listings-scraper/public/data/taichimurakami/yahoo.json",
-    /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
-  );
+  // scrapeYahoo(
+  //   "https://buyee.jp/item/search/category/2084199118",
+  //   "listings-scraper/public/data/taichimurakami/yahoo.json",
+  //   /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
+  // );
 }
 
 runner();
