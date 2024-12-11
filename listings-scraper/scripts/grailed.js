@@ -9,7 +9,7 @@ const transformData = (receivedData) => {
     id: item.id || "",
     sellerId: item.user?.id || "",
     name: item.title || "",
-    price: item.price || 0,
+    price: Math.ceil(item.price * 0.78) || 0,
     created: Math.floor(new Date(item.created_at).getTime() / 1000) || 0,
     thumbnails: [item.cover_photo?.url || ""],
     categoryId: item.category || "",
