@@ -576,24 +576,6 @@
     "website": "grailed"
   },
   {
-    "id": 70156576,
-    "sellerId": 8891936,
-    "name": "Ma+ boots",
-    "price": 370,
-    "created": 1731003172,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/3ec63f7c248d4d7581a188af96ca2a4b"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/70156576",
-    "designer": "Ma+",
-    "size": "9",
-    "color": "black",
-    "condition": "is_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
     "id": 69868893,
     "sellerId": 2966775,
     "name": "Ma+ Buckle engineer boots cow leather eu42",
