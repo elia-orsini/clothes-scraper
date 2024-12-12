@@ -252,24 +252,6 @@
     "website": "grailed"
   },
   {
-    "id": 69890381,
-    "sellerId": 155144,
-    "name": "Layer-0 Derby",
-    "price": 780,
-    "created": 1730516998,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/f7bd48e4c37446e0992ef3ba45aec9d3"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/69890381",
-    "designer": "Layer-0",
-    "size": "10",
-    "color": "red",
-    "condition": "is_gently_used",
-    "location": "Australia/NZ",
-    "website": "grailed"
-  },
-  {
     "id": 69748363,
     "sellerId": 3123077,
     "name": "Layer-0 Grey Jeans",
