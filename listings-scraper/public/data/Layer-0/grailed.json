@@ -18,6 +18,24 @@
     "website": "grailed"
   },
   {
+    "id": 71902337,
+    "sellerId": 817091,
+    "name": "Layer-0 SSM1017 horse leather messenger bag + tag black",
+    "price": 780,
+    "created": 1733988505,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/64236b4a6257421db7ad7c982c21afb9"
+    ],
+    "categoryId": "accessories",
+    "href": "https://www.grailed.com/listings/71902337",
+    "designer": "Layer-0, Layer0",
+    "size": "one size",
+    "color": "black",
+    "condition": "is_gently_used",
+    "location": "Europe",
+    "website": "grailed"
+  },
+  {
     "id": 71686939,
     "sellerId": 193294,
     "name": "Layer-0 Wool Trench",
@@ -663,24 +681,6 @@
     "color": "black",
     "condition": "is_gently_used",
     "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 58250451,
-    "sellerId": 817091,
-    "name": "Layer-0 SSM1017 horse leather messenger bag + tag black",
-    "price": 596,
-    "created": 1710707681,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/64236b4a6257421db7ad7c982c21afb9"
-    ],
-    "categoryId": "accessories",
-    "href": "https://www.grailed.com/listings/58250451",
-    "designer": "Layer-0, Layer0",
-    "size": "one size",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
     "website": "grailed"
   },
   {
