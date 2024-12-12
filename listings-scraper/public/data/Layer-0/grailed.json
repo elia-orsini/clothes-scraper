@@ -18,6 +18,24 @@
     "website": "grailed"
   },
   {
+    "id": 71915814,
+    "sellerId": 9267700,
+    "name": "Layer-0 Retro Overlock Stitch Avant-Garde Linen Jacket/Coat",
+    "price": 695,
+    "created": 1734011693,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/7425568695ca42eaa9f86f241397601c"
+    ],
+    "categoryId": "womens_outerwear",
+    "href": "https://www.grailed.com/listings/71915814",
+    "designer": "Layer-0, Layer0",
+    "size": "s",
+    "color": "black",
+    "condition": "is_new",
+    "location": "Europe",
+    "website": "grailed"
+  },
+  {
     "id": 71902337,
     "sellerId": 817091,
     "name": "Layer-0 SSM1017 horse leather messenger bag + tag black",
@@ -573,24 +591,6 @@
     "color": "green",
     "condition": "is_gently_used",
     "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 65526504,
-    "sellerId": 9267700,
-    "name": "Layer-0 Retro Overlock Stitch Avant-Garde Linen Coat",
-    "price": 695,
-    "created": 1723500874,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/a3708dbe46444e5882649be5bde33084"
-    ],
-    "categoryId": "womens_outerwear",
-    "href": "https://www.grailed.com/listings/65526504",
-    "designer": "Layer-0, Layer0",
-    "size": "s",
-    "color": "black",
-    "condition": "is_new",
-    "location": "Europe",
     "website": "grailed"
   },
   {
