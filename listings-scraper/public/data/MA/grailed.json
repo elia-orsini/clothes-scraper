@@ -813,7 +813,7 @@
     "id": 69631286,
     "sellerId": 7000847,
     "name": "MA+ MAURIZIO AMADEI AVANTGARDE HANDMADE MANDARIN JACKET",
-    "price": 1485,
+    "price": 1336,
     "created": 1730037965,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/95afe9d6a0eb46ac8469bee87ed4b34e"
@@ -1101,7 +1101,7 @@
     "id": 68513169,
     "sellerId": 7000847,
     "name": "Maurizio Amadei M.A+ Cross Cashmere Ribbed Knit Sweater",
-    "price": 494,
+    "price": 444,
     "created": 1728080245,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/355f2157ecb044cea8465ecfea8d49c6"
@@ -1242,24 +1242,6 @@
     "website": "grailed"
   },
   {
-    "id": 68393678,
-    "sellerId": 15115100,
-    "name": "M.A+ Maurizio Amadei Knit Long Sleeve Men’s Sweater Cross",
-    "price": 437,
-    "created": 1727896457,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/682851750f1b4de79f9cc7a0e5d48292"
-    ],
-    "categoryId": "tops",
-    "href": "https://www.grailed.com/listings/68393678",
-    "designer": "Ma+",
-    "size": "s",
-    "color": "grey",
-    "condition": "is_new",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
     "id": 68184812,
     "sellerId": 1731398,
     "name": "m.a+ Wool Sheep Bag",
@@ -1275,6 +1257,24 @@
     "color": "black",
     "condition": "is_gently_used",
     "location": "Australia/NZ",
+    "website": "grailed"
+  },
+  {
+    "id": 68393678,
+    "sellerId": 15115100,
+    "name": "M.A+ Maurizio Amadei Knit Long Sleeve Men’s Sweater Cross",
+    "price": 437,
+    "created": 1727896457,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/682851750f1b4de79f9cc7a0e5d48292"
+    ],
+    "categoryId": "tops",
+    "href": "https://www.grailed.com/listings/68393678",
+    "designer": "Ma+",
+    "size": "s",
+    "color": "grey",
+    "condition": "is_new",
+    "location": "United States",
     "website": "grailed"
   },
   {
