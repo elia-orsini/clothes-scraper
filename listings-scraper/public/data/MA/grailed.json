@@ -36,6 +36,24 @@
     "website": "grailed"
   },
   {
+    "id": 71932982,
+    "sellerId": 833830,
+    "name": "Ma+ Long Sleeve Aviator Hooded Leather w/ Wool Lining",
+    "price": 913,
+    "created": 1734032453,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/23de7b7463f04f69bcdfd46229d6a2db"
+    ],
+    "categoryId": "outerwear",
+    "href": "https://www.grailed.com/listings/71932982",
+    "designer": "Ma+",
+    "size": "m",
+    "color": "black",
+    "condition": "is_gently_used",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 71723248,
     "sellerId": 319028,
     "name": "Sz 48 M.a+ Cross Zip-up Pockets Jacket",
@@ -1509,24 +1527,6 @@
     "color": "grey",
     "condition": "is_gently_used",
     "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67376129,
-    "sellerId": 833830,
-    "name": "Ma+ Long Sleeve Aviator Hooded Leather w/ Wool Lining",
-    "price": 913,
-    "created": 1726243896,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/23de7b7463f04f69bcdfd46229d6a2db"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/67376129",
-    "designer": "Ma+",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
     "website": "grailed"
   },
   {
