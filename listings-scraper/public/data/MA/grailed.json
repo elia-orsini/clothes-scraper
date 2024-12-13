@@ -72,24 +72,6 @@
     "website": "grailed"
   },
   {
-    "id": 71638380,
-    "sellerId": 9267700,
-    "name": "(archive m.a+) Maurizio Amadei P170-JM5 Spiral Cotton Pants",
-    "price": 773,
-    "created": 1733570800,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/109961233ab04606ae6a884a6aa93aa4"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/71638380",
-    "designer": "Ma+, Maurizio Altieri, Taichimurakami Maurizio Amadei",
-    "size": "32",
-    "color": "black",
-    "condition": "is_new",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
     "id": 71634234,
     "sellerId": 9267700,
     "name": "(archive m.a+) Maurizio Amadei 3-Button Fitted Jacket/Blazer",
@@ -102,6 +84,24 @@
     "href": "https://www.grailed.com/listings/71634234",
     "designer": "Ma+, Maurizio Altieri, Taichimurakami Maurizio Amadei",
     "size": "48l",
+    "color": "black",
+    "condition": "is_new",
+    "location": "Europe",
+    "website": "grailed"
+  },
+  {
+    "id": 71638380,
+    "sellerId": 9267700,
+    "name": "(archive m.a+) Maurizio Amadei P170-JM5 Spiral Cotton Pants",
+    "price": 773,
+    "created": 1733570800,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/109961233ab04606ae6a884a6aa93aa4"
+    ],
+    "categoryId": "bottoms",
+    "href": "https://www.grailed.com/listings/71638380",
+    "designer": "Ma+, Maurizio Altieri, Taichimurakami Maurizio Amadei",
+    "size": "32",
     "color": "black",
     "condition": "is_new",
     "location": "Europe",
