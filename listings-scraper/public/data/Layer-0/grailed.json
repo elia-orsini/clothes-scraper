@@ -18,6 +18,24 @@
     "website": "grailed"
   },
   {
+    "id": 71987111,
+    "sellerId": 8341278,
+    "name": "LAYER-0 F/W 2018 FWM 21-40 DARK INDIGO JEANS",
+    "price": 351,
+    "created": 1734110346,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/d51e5449b18d4a3fb91e5f94d44b4745"
+    ],
+    "categoryId": "bottoms",
+    "href": "https://www.grailed.com/listings/71987111",
+    "designer": "Layer-0, Layer0",
+    "size": "34",
+    "color": "dark indigo",
+    "condition": "is_used",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 71969563,
     "sellerId": 817091,
     "name": "Layer-0 hemp sail jacket FWM 09-08 sz 50",
@@ -104,24 +122,6 @@
     "size": "m",
     "color": "black",
     "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 71435155,
-    "sellerId": 8341278,
-    "name": "LAYER-0 F/W 2018 FWM 21-40 DARK INDIGO JEANS",
-    "price": 351,
-    "created": 1733246624,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/d51e5449b18d4a3fb91e5f94d44b4745"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/71435155",
-    "designer": "Layer-0, Layer0",
-    "size": "34",
-    "color": "dark indigo",
-    "condition": "is_used",
     "location": "United States",
     "website": "grailed"
   },
