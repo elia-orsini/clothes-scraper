@@ -18,6 +18,24 @@
     "website": "grailed"
   },
   {
+    "id": 71978600,
+    "sellerId": 1411982,
+    "name": "m.a+ twisted chain bracelet",
+    "price": 390,
+    "created": 1734099167,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/a5abe090eab240418946d91851201bd2"
+    ],
+    "categoryId": "accessories",
+    "href": "https://www.grailed.com/listings/71978600",
+    "designer": "Ma+",
+    "size": "one size",
+    "color": "silver",
+    "condition": "is_gently_used",
+    "location": "Asia",
+    "website": "grailed"
+  },
+  {
     "id": 71834383,
     "sellerId": 7799206,
     "name": "NWT MA+ Mauritius Amadei Silver Cross Pants",
@@ -1527,24 +1545,6 @@
     "color": "grey",
     "condition": "is_gently_used",
     "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67270380,
-    "sellerId": 1411982,
-    "name": "m.a+ twisted chain bracelet",
-    "price": 390,
-    "created": 1726073692,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/a5abe090eab240418946d91851201bd2"
-    ],
-    "categoryId": "accessories",
-    "href": "https://www.grailed.com/listings/67270380",
-    "designer": "Ma+",
-    "size": "one size",
-    "color": "silver",
-    "condition": "is_gently_used",
-    "location": "Asia",
     "website": "grailed"
   },
   {
