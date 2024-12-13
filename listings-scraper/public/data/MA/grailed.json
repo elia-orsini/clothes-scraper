@@ -54,6 +54,24 @@
     "website": "grailed"
   },
   {
+    "id": 71983131,
+    "sellerId": 1426041,
+    "name": "Ma+ silver cross belt calf leather size LARGE",
+    "price": 948,
+    "created": 1734105308,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/46394361/f78bdbfef1654206a5ba3ad50edfa584"
+    ],
+    "categoryId": "accessories",
+    "href": "https://www.grailed.com/listings/71983131",
+    "designer": "Ma+",
+    "size": "one size",
+    "color": "black",
+    "condition": "is_gently_used",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 71932982,
     "sellerId": 833830,
     "name": "Ma+ Long Sleeve Aviator Hooded Leather w/ Wool Lining",
@@ -1491,24 +1509,6 @@
     "color": "white",
     "condition": "is_gently_used",
     "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67415540,
-    "sellerId": 1426041,
-    "name": "Ma+ silver cross belt calf leather size LARGE",
-    "price": 948,
-    "created": 1726314836,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/46394361/f78bdbfef1654206a5ba3ad50edfa584"
-    ],
-    "categoryId": "accessories",
-    "href": "https://www.grailed.com/listings/67415540",
-    "designer": "Ma+",
-    "size": "one size",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
     "website": "grailed"
   },
   {
