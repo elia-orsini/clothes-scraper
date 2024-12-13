@@ -89,6 +89,9 @@ async function scrapeGrailed(pageURL, path, regex) {
 
     await page.waitForTimeout(2000);
 
+    const maxScrollAttempts = 50;
+    let scrollAttempts = 0;
+
     await page.evaluate(async () => {
       await new Promise((resolve) => {
         const distance = 10000; // Scroll by 100px each time
@@ -96,8 +99,12 @@ async function scrapeGrailed(pageURL, path, regex) {
 
         const interval = setInterval(() => {
           window.scrollBy(0, distance);
+          scrollAttempts += 1;
 
-          if (allResults.length >= expectedResults) {
+          if (
+            allResults.length >= expectedResults ||
+            scrollAttempts >= maxScrollAttempts
+          ) {
             clearInterval(interval);
             resolve();
           }
