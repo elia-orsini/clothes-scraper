@@ -48,9 +48,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "lien stole (lien, m.a+, m.a cross, devoa)",
-    "price": 63,
+    "price": 52,
     "created": "1733954688",
-    "updated": "1734167546",
+    "updated": "1734272326",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m16784235669_1.jpg?1733954688"
     ],
@@ -1369,7 +1369,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
