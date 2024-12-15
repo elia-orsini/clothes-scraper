@@ -203,7 +203,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -281,10 +281,10 @@
     "sellerId": "295643385",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ knit coat",
+    "name": "m.a+ knit coat, long jacket, cardigan",
     "price": 624,
     "created": "1732882390",
-    "updated": "1733995250",
+    "updated": "1734228890",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m65901970400_1.jpg?1732882390"
     ],
@@ -1319,7 +1319,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1363,9 +1363,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Ma+ Maurizio Amadei Long Coat",
-    "price": 552,
+    "price": 832,
     "created": "1711689627",
-    "updated": "1717574854",
+    "updated": "1734225523",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m19364197010_1.jpg?1711689627"
     ],
