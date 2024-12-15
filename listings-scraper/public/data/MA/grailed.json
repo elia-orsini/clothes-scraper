@@ -36,6 +36,42 @@
     "website": "grailed"
   },
   {
+    "id": 72079180,
+    "sellerId": 779974,
+    "name": "Ma+ Maurizio Amadei Dark Grey Striped Trousers Pants Bnwt",
+    "price": 488,
+    "created": 1734289764,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/44425433/02b6e3a0eb3f4ed0bd568b2ba6e9ea13"
+    ],
+    "categoryId": "bottoms",
+    "href": "https://www.grailed.com/listings/72079180",
+    "designer": "Ma+",
+    "size": "34",
+    "color": "black",
+    "condition": "is_new",
+    "location": "Europe",
+    "website": "grailed"
+  },
+  {
+    "id": 72079176,
+    "sellerId": 779974,
+    "name": "Ma+ Maurizio Amadei Grey C-Shaped Trousers Pants",
+    "price": 390,
+    "created": 1734289759,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/4c215c089cdb414bb086a769cc777e1f"
+    ],
+    "categoryId": "bottoms",
+    "href": "https://www.grailed.com/listings/72079176",
+    "designer": "Ma+",
+    "size": "36",
+    "color": "grey",
+    "condition": "is_gently_used",
+    "location": "Europe",
+    "website": "grailed"
+  },
+  {
     "id": 71834383,
     "sellerId": 7799206,
     "name": "NWT MA+ Mauritius Amadei Silver Cross Pants",
@@ -1489,42 +1525,6 @@
     "designer": "Ma+",
     "size": "m",
     "color": "white",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67482564,
-    "sellerId": 779974,
-    "name": "Ma+ Maurizio Amadei Dark Grey Striped Trousers Pants Bnwt",
-    "price": 488,
-    "created": 1726437837,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/44425433/02b6e3a0eb3f4ed0bd568b2ba6e9ea13"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/67482564",
-    "designer": "Ma+",
-    "size": "34",
-    "color": "black",
-    "condition": "is_new",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67482518,
-    "sellerId": 779974,
-    "name": "Ma+ Maurizio Amadei Grey C-Shaped Trousers Pants",
-    "price": 390,
-    "created": 1726437794,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/4c215c089cdb414bb086a769cc777e1f"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/67482518",
-    "designer": "Ma+",
-    "size": "36",
-    "color": "grey",
     "condition": "is_gently_used",
     "location": "Europe",
     "website": "grailed"
