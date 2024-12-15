@@ -402,7 +402,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -453,7 +453,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1912,7 +1919,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
