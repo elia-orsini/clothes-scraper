@@ -246,7 +246,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1578,7 +1578,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Ma Cross, ma+Duffle Coat",
-    "price": 614,
+    "price": 598,
     "created": "1698912742",
     "updated": "1733491478",
     "thumbnails": [
@@ -1598,7 +1598,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "2"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "2",
