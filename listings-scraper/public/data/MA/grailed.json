@@ -36,6 +36,24 @@
     "website": "grailed"
   },
   {
+    "id": 72091387,
+    "sellerId": 5776741,
+    "name": "Ma+ engineer boots",
+    "price": 468,
+    "created": 1734308777,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/69cfe214a1eb4612beb012e57e34dee0"
+    ],
+    "categoryId": "footwear",
+    "href": "https://www.grailed.com/listings/72091387",
+    "designer": "Ma+",
+    "size": "9",
+    "color": "black",
+    "condition": "is_gently_used",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 72079180,
     "sellerId": 779974,
     "name": "Ma+ Maurizio Amadei Dark Grey Striped Trousers Pants Bnwt",
