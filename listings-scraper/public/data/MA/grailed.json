@@ -1,5 +1,23 @@
 [
   {
+    "id": 72091387,
+    "sellerId": 5776741,
+    "name": "Ma+ engineer boots",
+    "price": 468,
+    "created": 1734308777,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/69cfe214a1eb4612beb012e57e34dee0"
+    ],
+    "categoryId": "footwear",
+    "href": "https://www.grailed.com/listings/72091387",
+    "designer": "Ma+",
+    "size": "9",
+    "color": "black",
+    "condition": "is_gently_used",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 71983131,
     "sellerId": 1426041,
     "name": "Ma+ silver cross belt calf leather size LARGE",
@@ -33,24 +51,6 @@
     "color": "silver",
     "condition": "is_gently_used",
     "location": "Asia",
-    "website": "grailed"
-  },
-  {
-    "id": 72091387,
-    "sellerId": 5776741,
-    "name": "Ma+ engineer boots",
-    "price": 468,
-    "created": 1734308777,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/69cfe214a1eb4612beb012e57e34dee0"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/72091387",
-    "designer": "Ma+",
-    "size": "9",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
     "website": "grailed"
   },
   {
