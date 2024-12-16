@@ -36,7 +36,11 @@
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
-    "photos": [],
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m23403265882_1.jpg?1731238989"
+      }
+    ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m23403265882",
     "website": "mercari",
@@ -79,7 +83,11 @@
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
-    "photos": [],
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m51243664163_1.jpg?1729075257"
+      }
+    ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m51243664163",
     "website": "mercari",
@@ -122,7 +130,11 @@
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
-    "photos": [],
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m46384129723_1.jpg?1723474824"
+      }
+    ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m46384129723",
     "website": "mercari",
@@ -157,7 +169,11 @@
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
-    "photos": [],
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m87704807536_1.jpg?1719137374"
+      }
+    ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m87704807536",
     "website": "mercari",
@@ -200,7 +216,11 @@
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
-    "photos": [],
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m61014149528_1.jpg?1714490104"
+      }
+    ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m61014149528",
     "website": "mercari",
