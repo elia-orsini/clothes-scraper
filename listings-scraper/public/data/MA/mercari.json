@@ -489,7 +489,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -2195,9 +2195,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
-    "price": 190,
+    "price": 189,
     "created": "1628415717",
-    "updated": "1734239658",
+    "updated": "1734341330",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
