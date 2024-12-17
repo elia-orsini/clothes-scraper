@@ -270,7 +270,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -310,9 +310,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Masterpiece MA+ MA Cross LACE STITCHED SHOES",
-    "price": 858,
+    "price": 848,
     "created": "1733285949",
-    "updated": "1734263619",
+    "updated": "1734439705",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m77409711317_1.jpg?1733285949"
     ],
