@@ -1350,24 +1350,6 @@
     "website": "grailed"
   },
   {
-    "id": 68247434,
-    "sellerId": 4294343,
-    "name": "M.A+ Linen Boxer Shorts",
-    "price": 312,
-    "created": 1727679142,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/de5c04706188498eb88e414184ed62d0"
-    ],
-    "categoryId": "womens_bottoms",
-    "href": "https://www.grailed.com/listings/68247434",
-    "designer": "Ma+",
-    "size": "27",
-    "color": "black",
-    "condition": "is_new",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
     "id": 68247342,
     "sellerId": 4294343,
     "name": "M.A+ One Piece Tee",
@@ -1381,6 +1363,24 @@
     "designer": "Ma+",
     "size": "s",
     "color": "white",
+    "condition": "is_new",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
+    "id": 68247434,
+    "sellerId": 4294343,
+    "name": "M.A+ Linen Boxer Shorts",
+    "price": 312,
+    "created": 1727679142,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/temp/de5c04706188498eb88e414184ed62d0"
+    ],
+    "categoryId": "womens_bottoms",
+    "href": "https://www.grailed.com/listings/68247434",
+    "designer": "Ma+",
+    "size": "27",
+    "color": "black",
     "condition": "is_new",
     "location": "United States",
     "website": "grailed"
