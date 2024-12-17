@@ -4,7 +4,7 @@
     "sellerId": "582669911",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "Taichi Murakami Balmacaan Coat MA+ CCP BBS",
+    "name": "Taichi Murakami Balmac Coat MA+ CCP BBS",
     "price": 221,
     "created": "1732756175",
     "updated": "1733232626",
@@ -39,41 +39,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m69556199078",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m24810703319",
-    "sellerId": "176089404",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "taichi murakami O-MEGANE 40□26 ＋clip on",
-    "price": 416,
-    "created": "1731674269",
-    "updated": "1734468296",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m24810703319_1.jpg?1731674269"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": null,
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "14",
-    "categoryId": "2128",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24810703319_1.jpg?1731674269"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m24810703319",
     "website": "mercari",
     "location": "japan"
   },
