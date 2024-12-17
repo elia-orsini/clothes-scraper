@@ -3636,24 +3636,6 @@
     "website": "grailed"
   },
   {
-    "id": 15759116,
-    "sellerId": 4183299,
-    "name": "Ma+ Leather Shirt",
-    "price": 289,
-    "created": 1595267761,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/15759116/1f62ce6f946142a6a2e8560a6dc09b33"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/15759116",
-    "designer": "Ma+",
-    "size": "xxs",
-    "color": "black",
-    "condition": "is_new",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
     "id": 14140656,
     "sellerId": 4183299,
     "name": "MA+ Striped Fabric Shirt",

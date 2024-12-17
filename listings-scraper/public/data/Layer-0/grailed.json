@@ -1,5 +1,23 @@
 [
   {
+    "id": 72156655,
+    "sellerId": 13214,
+    "name": "Layer-0 Light Grey Linen 3 Buttons Blazer",
+    "price": 506,
+    "created": 1734422243,
+    "thumbnails": [
+      "https://media-assets.grailed.com/prd/listing/46596287/0482b7c9eab94d9285c8b1facd51b499"
+    ],
+    "categoryId": "tailoring",
+    "href": "https://www.grailed.com/listings/72156655",
+    "designer": "Layer-0",
+    "size": "34r",
+    "color": "grey",
+    "condition": "is_new",
+    "location": "United States",
+    "website": "grailed"
+  },
+  {
     "id": 72131718,
     "sellerId": 8341278,
     "name": "LAYER-0 F/W 2018 FWM 21-40 DARK INDIGO JEANS",
@@ -573,24 +591,6 @@
     "color": "black",
     "condition": "is_gently_used",
     "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 67601345,
-    "sellerId": 13214,
-    "name": "Layer-0 Light Grey Linen 3 Buttons Blazer",
-    "price": 506,
-    "created": 1726632232,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/46596287/0482b7c9eab94d9285c8b1facd51b499"
-    ],
-    "categoryId": "tailoring",
-    "href": "https://www.grailed.com/listings/67601345",
-    "designer": "Layer-0",
-    "size": "34r",
-    "color": "grey",
-    "condition": "is_new",
-    "location": "United States",
     "website": "grailed"
   },
   {
