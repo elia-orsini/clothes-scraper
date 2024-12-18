@@ -23,6 +23,8 @@ const transformData = (receivedData) => {
 };
 
 async function scrapeXianyu(keyword, path, regex) {
+  console.log("starting xianyu...");
+
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 

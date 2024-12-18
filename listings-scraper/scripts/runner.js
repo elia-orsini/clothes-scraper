@@ -3,76 +3,59 @@ const { scrapeMercari } = require("./mercari");
 const { scrapeXianyu } = require("./xianyu");
 const { scrapeYahoo } = require("./yahoo");
 
+async function scrapeBrand(
+  mercariBrandId,
+  grailedUrl,
+  yahooUrl,
+  keyword,
+  path,
+  regex,
+  mercariKeyword
+) {
+  console.log(`📩 ${keyword}`);
+
+  if (mercariKeyword) {
+    await scrapeMercari([], `${path}/mercari.json`, regex, mercariKeyword);
+  } else {
+    await scrapeMercari([mercariBrandId], `${path}/mercari.json`, regex);
+  }
+  await scrapeXianyu(keyword, `${path}/xianyu.json`, regex);
+  await scrapeGrailed(grailedUrl, `${path}/grailed.json`, regex);
+  // await scrapeEbay(keyword, `${path}/ebay.json`, regex);
+  // await scrapeVestiaire(keyword, `${path}/vestiaire.json`);
+  // await scrapeVinted(keyword, `${path}/vinted.json`, regex);
+  // await scrapeDepop(depopUrl, `${path}/depop.json`);
+  // await scrapePoshmark(poshmarkUrl, `${path}/poshmark.json`, regex);
+  // scrapeYahoo(yahooUrl, `${path}/yahoo.json`, regex);
+}
+
 async function runner() {
-  // MA
-  console.log("m.a+");
-  await scrapeMercari(
-    [7617],
-    "listings-scraper/public/data/MA/mercari.json",
-    /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
-  );
-  await scrapeXianyu(
-    "m.a+",
-    "listings-scraper/public/data/MA/xianyu.json",
-    /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
-  );
-  await scrapeGrailed(
+  await scrapeBrand(
+    7617,
     "https://www.grailed.com/designers/ma",
-    "listings-scraper/public/data/MA/grailed.json",
+    "https://buyee.jp/item/search/category/2084199118",
+    "m.a+",
+    "listings-scraper/public/data/MA",
     /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
   );
-  // scrapeYahoo(
-  //   "https://buyee.jp/item/search/category/2084199118",
-  //   "listings-scraper/public/data/MA/yahoo.json",
-  //   /m\.a\+|ma\+|MA\+|Ma\+|m\.a\.\+|m\.a\＋|ma\＋|MA\＋|Ma\＋|m\.a\.\＋/i
-  // );
 
-  // LAYER-0
-  console.log("layer-0");
-  await scrapeMercari(
-    [53417],
-    "listings-scraper/public/data/Layer-0/mercari.json",
-    /LAYER-0|layer-0|Layer-0/i
-  );
-  await scrapeXianyu(
-    "layer-0",
-    "listings-scraper/public/data/Layer-0/xianyu.json",
-    /LAYER-0|layer-0|Layer-0/i
-  );
-  await scrapeGrailed(
+  await scrapeBrand(
+    53417,
     "https://www.grailed.com/designers/layer-0",
-    "listings-scraper/public/data/Layer-0/grailed.json",
+    "https://buyee.jp/item/search/category/2084199118",
+    "layer-0",
+    "listings-scraper/public/data/layer-0",
     /LAYER-0|layer-0|Layer-0/i
   );
-  // scrapeYahoo(
-  //   "https://buyee.jp/item/search/category/2084199118",
-  //   "listings-scraper/public/data/Layer-0/yahoo.json",
-  //   /LAYER-0|layer-0|Layer-0/i
-  // );
 
-  // TAICHIMURAKAMI
-  console.log("taichimurakami");
-  await scrapeMercari(
-    [],
-    "listings-scraper/public/data/taichimurakami/mercari.json",
-    /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i,
-    "taichi murakami taichimurakami タイチムラカミ"
-  );
-  await scrapeXianyu(
-    "taichimurakami",
-    "listings-scraper/public/data/taichimurakami/xianyu.json",
-    /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
-  );
-  await scrapeGrailed(
+  await scrapeBrand(
+    0,
     "https://www.grailed.com/designers/taichi-murakami",
-    "listings-scraper/public/data/taichimurakami/grailed.json",
+    "https://buyee.jp/item/search/category/2084199118",
+    "taichimurakami",
+    "listings-scraper/public/data/taichimurakami",
     /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
   );
-  // scrapeYahoo(
-  //   "https://buyee.jp/item/search/category/2084199118",
-  //   "listings-scraper/public/data/taichimurakami/yahoo.json",
-  //   /taichi murakami|taichimurakami|タイチムラカミ|タイチ ムラカミ/i
-  // );
 }
 
 runner();

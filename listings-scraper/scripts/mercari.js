@@ -32,6 +32,8 @@ async function getDpop() {
 }
 
 async function scrapeMercari(brandId, saveLocation, regex, keyword = "") {
+  console.log("starting mercari...");
+
   const dpop = await getDpop();
 
   const config = {

@@ -9,7 +9,7 @@ const transformData = (receivedData) => {
     id: item.id || "",
     sellerId: item.user?.id || "",
     name: item.title || "",
-    price: Math.ceil(item.price * 0.78) || 0,
+    price: item.price || 0,
     created: Math.floor(new Date(item.created_at).getTime() / 1000) || 0,
     thumbnails: [item.cover_photo?.url || ""],
     categoryId: item.category || "",
@@ -26,6 +26,8 @@ const transformData = (receivedData) => {
 };
 
 async function scrapeGrailed(pageURL, path, regex) {
+  console.log("starting grailed...");
+
   try {
     chromium.use(stealth());
     const browser = await chromium.launch({ headless: true });
@@ -66,16 +68,18 @@ async function scrapeGrailed(pageURL, path, regex) {
           regex.test(item.name)
         );
 
-        allResults = [...allResults, ...parsedResultList];
+        allResults = [...allResults, ...resultList];
         allFilteredResults = [...allFilteredResults, ...filteredItems];
 
-        if (allResults.length >= expectedResults) {
+        if (allResults.length >= expectedResults || allResults.length > 999) {
           isComplete = true;
           fs.writeFileSync(
             path,
             JSON.stringify(allFilteredResults, null, 2),
             "utf8"
           );
+
+          console.log("GRAILED ✅");
 
           await browser.close();
         }
@@ -124,9 +128,7 @@ async function scrapeGrailed(pageURL, path, regex) {
     }
 
     await browser.close();
-  } catch (error) {
-    console.log("GRAILED ✅");
-  }
+  } catch (error) {}
 }
 
 module.exports = { scrapeGrailed };
