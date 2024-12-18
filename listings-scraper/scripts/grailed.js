@@ -9,7 +9,7 @@ const transformData = (receivedData) => {
     id: item.id || "",
     sellerId: item.user?.id || "",
     name: item.title || "",
-    price: item.price || 0,
+    price: Math.ceil(item.price * 0.78) || 0,
     created: Math.floor(new Date(item.created_at).getTime() / 1000) || 0,
     thumbnails: [item.cover_photo?.url || ""],
     categoryId: item.category || "",
@@ -30,7 +30,7 @@ async function scrapeGrailed(pageURL, path, regex) {
 
   try {
     chromium.use(stealth());
-    const browser = await chromium.launch({ headless: true });
+    const browser = await chromium.launch({ headless: false });
     const page = await browser.newPage();
 
     let allResults = [];
@@ -94,7 +94,7 @@ async function scrapeGrailed(pageURL, path, regex) {
       timeout: 60000,
     });
 
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(3000);
 
     const maxScrollAttempts = 50;
     let scrollAttempts = 0;
