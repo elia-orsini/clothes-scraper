@@ -1,5 +1,52 @@
 [
   {
+    "id": "m57923535894",
+    "sellerId": "609597229",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "[Good Condition] m.a+ Wool Coat Long Jacket Chester Coat",
+    "price": 520,
+    "created": "1734532271",
+    "updated": "1734532271",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m57923535894_1.jpg?1734532271"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "324",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m57923535894_1.jpg?1734532271"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m57923535894",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m51367094651",
     "sellerId": "387431890",
     "buyerId": "",
@@ -1459,7 +1506,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -2374,53 +2421,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m24482474239",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m73876123705",
-    "sellerId": "689657329",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "Total value over 1.5 million yen! The strongest! m.a+ M.A. Cross boots set",
-    "price": 1820,
-    "created": "1587623426",
-    "updated": "1725339308",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m73876123705_1.jpg?1725339255"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "10",
-        "name": "26.5cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "10",
-      "name": "26.5cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "347",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m73876123705_1.jpg?1725339255"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m73876123705",
     "website": "mercari",
     "location": "japan"
   },
