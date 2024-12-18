@@ -71,7 +71,10 @@ async function scrapeGrailed(pageURL, path, regex) {
         allResults = [...allResults, ...resultList];
         allFilteredResults = [...allFilteredResults, ...filteredItems];
 
-        if (allResults.length >= expectedResults || allResults.length > 999) {
+        if (
+          allResults.length >= expectedResults - 10 ||
+          allResults.length > 999
+        ) {
           isComplete = true;
           fs.writeFileSync(
             path,

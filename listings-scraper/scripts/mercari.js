@@ -24,7 +24,7 @@ async function getDpop() {
     "https://jp.mercari.com/search?search_condition_id=1cx0zHGJpZB03NjE3"
   );
 
-  await page.waitForTimeout(25000);
+  await page.waitForTimeout(15000);
 
   await browser.close();
 
@@ -106,36 +106,28 @@ async function scrapeMercari(brandId, saveLocation, regex, keyword = "") {
     },
   };
 
-  axios(config)
-    .then(async (response) => {
-      const filteredItems = response.data.items.filter(
-        (item) => regex.test(item.name) && item.status === "ITEM_STATUS_ON_SALE"
-      );
+  const response = await axios(config);
 
-      const sortedItems = filteredItems.sort((a, b) => b.created - a.created);
+  const filteredItems = response.data.items.filter(
+    (item) => regex.test(item.name) && item.status === "ITEM_STATUS_ON_SALE"
+  );
 
-      for (const item of sortedItems) {
-        item.href = `https://jp.mercari.com/item/${item.id}`;
-        item.name = await translate(item.name);
-        item.price = Math.ceil(item.price * 0.0052);
-        item.website = "mercari";
-        item.location = "japan";
-        item.thumbnails[0] = item.thumbnails[0].replace(
-          "https://static.mercdn.net/c!/w=240,f=webp/thumb",
-          "https://static.mercdn.net/item/detail/orig"
-        );
-      }
+  const sortedItems = filteredItems.sort((a, b) => b.created - a.created);
 
-      fs.writeFileSync(
-        saveLocation,
-        JSON.stringify(sortedItems, null, 2),
-        "utf-8"
-      );
-      console.log("MERCARI ✅");
-    })
-    .catch((error) => {
-      console.error("Error during the request:", error);
-    });
+  for (const item of sortedItems) {
+    item.href = `https://jp.mercari.com/item/${item.id}`;
+    item.name = await translate(item.name);
+    item.price = Math.ceil(item.price * 0.0052);
+    item.website = "mercari";
+    item.location = "japan";
+    item.thumbnails[0] = item.thumbnails[0].replace(
+      "https://static.mercdn.net/c!/w=240,f=webp/thumb",
+      "https://static.mercdn.net/item/detail/orig"
+    );
+  }
+
+  fs.writeFileSync(saveLocation, JSON.stringify(sortedItems, null, 2), "utf-8");
+  console.log("MERCARI ✅");
 }
 
 module.exports = { scrapeMercari };

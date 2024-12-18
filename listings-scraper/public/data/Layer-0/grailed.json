@@ -3,14 +3,11 @@
     "id": 72156655,
     "sellerId": 13214,
     "name": "Layer-0 Light Grey Linen 3 Buttons Blazer",
-    "price": 506,
+    "price": 648,
     "created": 1734422243,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/46596287/0482b7c9eab94d9285c8b1facd51b499"
-      "https://media-assets.grailed.com/prd/listing/46596287/0482b7c9eab94d9285c8b1facd51b499"
     ],
-    "categoryId": "tailoring",
-    "href": "https://www.grailed.com/listings/72156655",
     "categoryId": "tailoring",
     "href": "https://www.grailed.com/listings/72156655",
     "designer": "Layer-0",
@@ -24,7 +21,7 @@
     "id": 72131718,
     "sellerId": 8341278,
     "name": "LAYER-0 F/W 2018 FWM 21-40 DARK INDIGO JEANS",
-    "price": 351,
+    "price": 450,
     "created": 1734381913,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/3598df3293064eb8ab7ffdce16c23614"
@@ -42,7 +39,7 @@
     "id": 71969563,
     "sellerId": 817091,
     "name": "Layer-0 hemp sail jacket FWM 09-08 sz 50",
-    "price": 520,
+    "price": 666,
     "created": 1734083884,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/c1f56985c0e748d29acbaf90acfb7065"
@@ -96,7 +93,7 @@
     "id": 71915814,
     "sellerId": 9267700,
     "name": "Layer-0 Retro Overlock Stitch Avant-Garde Linen Jacket/Coat",
-    "price": 695,
+    "price": 890,
     "created": 1734011693,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/7425568695ca42eaa9f86f241397601c"
@@ -114,7 +111,7 @@
     "id": 71686939,
     "sellerId": 193294,
     "name": "Layer-0 Wool coat",
-    "price": 351,
+    "price": 450,
     "created": 1733664616,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/10900755/844a8dfdb4324fb783e62945a39d51bd"
@@ -132,7 +129,7 @@
     "id": 70894871,
     "sellerId": 24533,
     "name": "Layer-0 Double Side Zip Boots",
-    "price": 341,
+    "price": 437,
     "created": 1732290286,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/9c3bc6477da648d29e77dee0aee0bc7a"
@@ -150,7 +147,7 @@
     "id": 71047854,
     "sellerId": 15520609,
     "name": "Layer-0 leather Jacket",
-    "price": 1248,
+    "price": 1600,
     "created": 1732563213,
     "thumbnails": [
       "https://media-assets.grailed.com/prd/listing/temp/1fb62112fe474e9d89d7f60b5c69e4ce"
@@ -574,330 +571,6 @@
     "designer": "Layer-0",
     "size": "7",
     "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 66114238,
-    "sellerId": 249062,
-    "name": "Layer-0 Boots",
-    "price": 874,
-    "created": 1724262024,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/44949848/8dc9318b723f49208e25b2d3197c53f4"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/66114238",
-    "designer": "Layer-0, Layer0",
-    "size": "10.5",
-    "color": "green",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 65298168,
-    "sellerId": 11112693,
-    "name": "Layer-0 Linen Pants",
-    "price": 450,
-    "created": 1723091154,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/30b61a9bdb2d468dbfa92a23ef5e573f"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/65298168",
-    "designer": "Layer-0",
-    "size": "31",
-    "color": "black",
-    "condition": "is_new",
-    "location": "Asia",
-    "website": "grailed"
-  },
-  {
-    "id": 63879125,
-    "sellerId": 3158932,
-    "name": "Layer-0 American Pocket Wool Pants",
-    "price": 380,
-    "created": 1720873518,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/5ed42f40fc7d4193933df3dcf5f860f7"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/63879125",
-    "designer": "Layer-0",
-    "size": "30",
-    "color": "brown",
-    "condition": "is_new",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 61680959,
-    "sellerId": 1360583,
-    "name": "Layer-0 denim trousers",
-    "price": 290,
-    "created": 1716732548,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/37a18a3a4b0b42babd2967f7545678e3"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/61680959",
-    "designer": "Layer-0",
-    "size": "32",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 59363292,
-    "sellerId": 12822428,
-    "name": "Layer-0 Long Coat",
-    "price": 504,
-    "created": 1712763740,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/5c0e6155da5146f085193f329fba4fe6"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/59363292",
-    "designer": "Layer-0",
-    "size": "l",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United Kingdom",
-    "website": "grailed"
-  },
-  {
-    "id": 59146222,
-    "sellerId": 15291,
-    "name": "Layer-0 FWM15-22 Horsehide Leather Jacket",
-    "price": 2300,
-    "created": 1712327866,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/d1fbf40b6bff4b2f94e87f32c9ccdae1"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/59146222",
-    "designer": "Layer-0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 55802066,
-    "sellerId": 2509527,
-    "name": "Layer-0 Leather Jacket with backpack",
-    "price": 2736,
-    "created": 1706215008,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/d45e70865ac04cc5a2efeea99753dc6c"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/55802066",
-    "designer": "Layer-0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 55361731,
-    "sellerId": 4834132,
-    "name": "Layer-0 Jacket FWM 17-39",
-    "price": 1863,
-    "created": 1705403440,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/35616257/532f500a73d640caa55bcfc2b5c8f76e"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/55361731",
-    "designer": "Layer-0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 54791667,
-    "sellerId": 4294343,
-    "name": "Layer-0 Reconstructed Derby",
-    "price": 500,
-    "created": 1704327941,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/48174af823f74a0e9bedf43bd27b96ec"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/54791667",
-    "designer": "Layer-0",
-    "size": "5.5",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 53721820,
-    "sellerId": 854770,
-    "name": "Layer-0 BLACK JEANS pants SIZE-31",
-    "price": 520,
-    "created": 1702213164,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/2539d53f09574dd7b76263b35a2cc259"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/53721820",
-    "designer": "Layer-0",
-    "size": "31",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 48873872,
-    "sellerId": 12505307,
-    "name": "Layer-0, 3 Button Blazer",
-    "price": 1350,
-    "created": 1692465354,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/temp/e5a43040b20b456ba5e941db81b9efea"
-    ],
-    "categoryId": "tailoring",
-    "href": "https://www.grailed.com/listings/48873872",
-    "designer": "Layer-0",
-    "size": "54l",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 47644373,
-    "sellerId": 576182,
-    "name": "Horse leather Layer-0 short-sleeved jacket",
-    "price": 859,
-    "created": 1689871528,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/47644373/a611e0751b3540b4905b4a91ec4eb9b4"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/47644373",
-    "designer": "Layer-0, Layer0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 42852113,
-    "sellerId": 576182,
-    "name": "Layer-0 leather blazer",
-    "price": 226,
-    "created": 1680263317,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/42852113/e6630afde24c47a6bc544db57f054879"
-    ],
-    "categoryId": "womens_outerwear",
-    "href": "https://www.grailed.com/listings/42852113",
-    "designer": "Layer-0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Europe",
-    "website": "grailed"
-  },
-  {
-    "id": 39381568,
-    "sellerId": 733785,
-    "name": "Layer-0 Wool Coat",
-    "price": 700,
-    "created": 1673487649,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/39381568/5d1c6a94dc6249f0889f6b19533e0585"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/39381568",
-    "designer": "Layer-0",
-    "size": "l",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 38787647,
-    "sellerId": 10490108,
-    "name": "Black Jacket Layer-0",
-    "price": 2349,
-    "created": 1672271517,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/38787647/bda253085fe846349b02034dcf721c36"
-    ],
-    "categoryId": "outerwear",
-    "href": "https://www.grailed.com/listings/38787647",
-    "designer": "Layer-0",
-    "size": "m",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 31144863,
-    "sellerId": 8952795,
-    "name": "Layer-0 Hemp-Sail boot 43",
-    "price": 504,
-    "created": 1654740674,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/31144863/d619bd2dbb344aefa9cf08b40e14d84b"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/31144863",
-    "designer": "Layer-0",
-    "size": "10",
-    "color": "black",
-    "condition": "is_gently_used",
-    "location": "Australia/NZ",
-    "website": "grailed"
-  },
-  {
-    "id": 29733831,
-    "sellerId": 135611,
-    "name": "Layer-0 Handmade Grey Lizard Leather Boots",
-    "price": 3200,
-    "created": 1650475925,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/29733831/b91a123556da4811a0383eb648fa4865"
-    ],
-    "categoryId": "footwear",
-    "href": "https://www.grailed.com/listings/29733831",
-    "designer": "Layer-0",
-    "size": "8",
-    "color": "grey",
-    "condition": "is_gently_used",
-    "location": "United States",
-    "website": "grailed"
-  },
-  {
-    "id": 19907224,
-    "sellerId": 886583,
-    "name": "Layer-0 Linen slim pants",
-    "price": 400,
-    "created": 1612128716,
-    "thumbnails": [
-      "https://media-assets.grailed.com/prd/listing/19907224/d6cccb18da9d449b832de787c75fcc94"
-    ],
-    "categoryId": "bottoms",
-    "href": "https://www.grailed.com/listings/19907224",
-    "designer": "Layer-0",
-    "size": "28",
-    "color": "dark grey",
     "condition": "is_gently_used",
     "location": "United States",
     "website": "grailed"

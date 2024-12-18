@@ -278,7 +278,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -536,7 +536,7 @@
     "sellerId": "550096956",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "Masterpiece★Beautiful m.a+ M.A.Cross Leather Plate Bracelet Brown Gray",
+    "name": "Masterpiece★Beautiful m.a+ MA Cross Leather Plate Bracelet Brown Gray",
     "price": 182,
     "created": "1731290515",
     "updated": "1731290515",
@@ -1308,7 +1308,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1695,9 +1702,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Final price reduction] M.A+ C374 Spiral Coat",
-    "price": 884,
+    "price": 910,
     "created": "1699147709",
-    "updated": "1734400506",
+    "updated": "1734541997",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m33995168340_1.jpg?1727070134"
     ],
