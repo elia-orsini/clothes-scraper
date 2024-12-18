@@ -47,45 +47,6 @@
     "location": "japan"
   },
   {
-    "id": "m16784235669",
-    "sellerId": "100808321",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "lien stole (lien, m.a+, m.a cross, devoa)",
-    "price": 52,
-    "created": "1733954688",
-    "updated": "1734272326",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m16784235669_1.jpg?1733954688"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "14",
-    "categoryId": "383",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m16784235669_1.jpg?1733954688"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m16784235669",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m83304139247",
     "sellerId": "995334131",
     "buyerId": "",
