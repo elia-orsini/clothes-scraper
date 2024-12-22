@@ -158,14 +158,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -645,14 +638,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -962,14 +948,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "2",
@@ -2176,7 +2155,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
