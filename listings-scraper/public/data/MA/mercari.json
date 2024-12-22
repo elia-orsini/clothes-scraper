@@ -1064,45 +1064,6 @@
     "location": "japan"
   },
   {
-    "id": "m96571726685",
-    "sellerId": "901483762",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "One of a kind m.a+ Doctor Backpack M.A.Cross",
-    "price": 1272,
-    "created": "1725761520",
-    "updated": "1725789580",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m96571726685_1.jpg?1725761520"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "17",
-    "categoryId": "1735",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m96571726685_1.jpg?1725761520"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m96571726685",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m99101136568",
     "sellerId": "910020089",
     "buyerId": "",
@@ -1498,7 +1459,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
