@@ -44,7 +44,7 @@ async function runner() {
     "https://www.grailed.com/designers/layer-0",
     "https://buyee.jp/item/search/category/2084199118",
     "layer-0",
-    "listings-scraper/public/data/layer-0",
+    "listings-scraper/public/data/Layer-0",
     /LAYER-0|layer-0|Layer-0/i
   );
 
