@@ -1,5 +1,44 @@
 [
   {
+    "id": "m54465550908",
+    "sellerId": "969458789",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A.Cross Bangle",
+    "price": 312,
+    "created": "1734848613",
+    "updated": "1734848613",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m54465550908_1.jpg?1734848613"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "377",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m54465550908_1.jpg?1734848613"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m54465550908",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m57923535894",
     "sellerId": "609597229",
     "buyerId": "",
@@ -101,9 +140,9 @@
     "name": "[Caution] MA+ MA Cross Leather Jacket Nubuck",
     "price": 780,
     "created": "1733630316",
-    "updated": "1733630316",
+    "updated": "1734682025",
     "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m83304139247_1.jpg?1733630316"
+      "https://static.mercdn.net/item/detail/orig/photos/m83304139247_1.jpg?1734682025"
     ],
     "itemType": "ITEM_TYPE_MERCARI",
     "itemConditionId": "4",
@@ -132,7 +171,7 @@
     "isLiked": false,
     "photos": [
       {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m83304139247_1.jpg?1733630316"
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m83304139247_1.jpg?1734682025"
       }
     ],
     "auction": null,
@@ -146,9 +185,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross wool coat",
-    "price": 259,
+    "price": 257,
     "created": "1733560212",
-    "updated": "1734446204",
+    "updated": "1734853528",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m75200668729_1.jpg?1733560212"
     ],
@@ -193,9 +232,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ MA Cross Chester Coat",
-    "price": 284,
+    "price": 282,
     "created": "1733486220",
-    "updated": "1734511320",
+    "updated": "1734817076",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m36170316603_1.jpg?1733486220"
     ],
@@ -278,7 +317,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -318,9 +357,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Masterpiece MA+ MA Cross LACE STITCHED SHOES",
-    "price": 848,
+    "price": 822,
     "created": "1733285949",
-    "updated": "1734439705",
+    "updated": "1734820818",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m77409711317_1.jpg?1733285949"
     ],
@@ -709,9 +748,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ MA Cross knit dress",
-    "price": 110,
+    "price": 104,
     "created": "1730009403",
-    "updated": "1734173831",
+    "updated": "1734696117",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58995854770_1.jpg?1730009403"
     ],
@@ -983,9 +1022,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Carpe ma+MA Cross Boots",
-    "price": 347,
+    "price": 289,
     "created": "1726118840",
-    "updated": "1733678122",
+    "updated": "1734775512",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m44251688941_1.jpg?1726118840"
     ],
@@ -1099,53 +1138,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m99101136568",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m43425635106",
-    "sellerId": "929067698",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ MA Cross / Stretch Wool Spiral Coat",
-    "price": 559,
-    "created": "1723368089",
-    "updated": "1727303653",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m43425635106_1.jpg?1723368089"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "325",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m43425635106_1.jpg?1723368089"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m43425635106",
     "website": "mercari",
     "location": "japan"
   },
@@ -1308,14 +1300,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "5"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1513,7 +1498,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1561,7 +1546,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Ma+ Maurizio Amadei Long Coat",
-    "price": 832,
+    "price": 817,
     "created": "1711689627",
     "updated": "1734225523",
     "thumbnails": [
@@ -1581,7 +1566,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "1"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1701,10 +1693,10 @@
     "sellerId": "915535273",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Final price reduction] M.A+ C374 Spiral Coat",
-    "price": 910,
+    "name": "[Christmas Limited Price Reduction] M.A+ C374 Spiral Coat",
+    "price": 884,
     "created": "1699147709",
-    "updated": "1734541997",
+    "updated": "1734666430",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m33995168340_1.jpg?1727070134"
     ],
@@ -1749,7 +1741,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Ma Cross, ma+Duffle Coat",
-    "price": 598,
+    "price": 614,
     "created": "1698912742",
     "updated": "1733491478",
     "thumbnails": [
@@ -1769,14 +1761,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "2"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "2",
@@ -1842,9 +1827,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A.Cross Back Zip Boots 41 m.a+",
-    "price": 375,
+    "price": 374,
     "created": "1681969445",
-    "updated": "1733744844",
+    "updated": "1734697654",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m15399142819_1.jpg?1681992319"
     ],
@@ -2077,9 +2062,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Only tried on MA+ MA Cross Kangaroo Leather Biker Size 44 m.a+",
-    "price": 769,
+    "price": 767,
     "created": "1652954639",
-    "updated": "1734499927",
+    "updated": "1734805424",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m73932490022_1.jpg?1652954639"
     ],
@@ -2210,9 +2195,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
-    "price": 189,
+    "price": 187,
     "created": "1628415717",
-    "updated": "1734443029",
+    "updated": "1734850440",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
