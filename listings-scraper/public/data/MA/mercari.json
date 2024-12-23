@@ -7,7 +7,7 @@
     "name": "MA Cross ma+Black Linen Tailored Jacket",
     "price": 260,
     "created": "1734948749",
-    "updated": "1734948749",
+    "updated": "1734961410",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m53659161608_1.jpg?1734948749"
     ],
@@ -364,7 +364,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -583,7 +583,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -638,14 +638,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -2118,7 +2111,7 @@
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
     "price": 186,
     "created": "1628415717",
-    "updated": "1734952184",
+    "updated": "1734960527",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
