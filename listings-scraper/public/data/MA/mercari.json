@@ -583,7 +583,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -622,7 +622,7 @@
     "sellerId": "550096956",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "Masterpiece★Beautiful m.a+ M.A.Cross Leather Plate Bracelet Brown Gray",
+    "name": "Masterpiece★Beautiful m.a+ MA Cross Leather Plate Bracelet Brown Gray",
     "price": 182,
     "created": "1731290515",
     "updated": "1731290515",
@@ -1459,7 +1459,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1877,53 +1877,6 @@
     "location": "japan"
   },
   {
-    "id": "m24062492793",
-    "sellerId": "836998257",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ Baby calf (reverse) size 43",
-    "price": 936,
-    "created": "1679806764",
-    "updated": "1726750502",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m24062492793_1.jpg?1679806764"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "12",
-        "name": "27.5cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "12",
-      "name": "27.5cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "347",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24062492793_1.jpg?1679806764"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m24062492793",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m97880859839",
     "sellerId": "310260597",
     "buyerId": "",
@@ -2014,7 +1967,7 @@
     "sellerId": "890043615",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Best quality] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
+    "name": "[Superb] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
     "price": 415,
     "created": "1652600066",
     "updated": "1734166453",
