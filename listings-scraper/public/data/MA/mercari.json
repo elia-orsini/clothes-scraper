@@ -583,7 +583,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1936,9 +1936,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Only tried on MA+ MA Cross Kangaroo Leather Biker Size 44 m.a+",
-    "price": 52000,
+    "price": 649,
     "created": "1652954639",
-    "updated": "1735008267",
+    "updated": "1735044623",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m73932490022_1.jpg?1652954639"
     ],
@@ -1956,7 +1956,7 @@
     "itemSize": null,
     "shippingMethodId": "17",
     "categoryId": "317",
-    "isNoPrice": true,
+    "isNoPrice": false,
     "title": "",
     "isLiked": false,
     "photos": [
@@ -2069,9 +2069,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross Monk Strap Short Boots",
-    "price": 186,
+    "price": 174,
     "created": "1628415717",
-    "updated": "1734960527",
+    "updated": "1735044935",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
