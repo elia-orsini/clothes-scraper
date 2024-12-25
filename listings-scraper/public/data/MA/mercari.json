@@ -281,7 +281,7 @@
     "name": "ma+ MA Cross Chester Coat",
     "price": 281,
     "created": "1733486220",
-    "updated": "1735020321",
+    "updated": "1735121759",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m36170316603_1.jpg?1733486220"
     ],
@@ -583,7 +583,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -638,7 +638,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1459,7 +1466,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1781,9 +1788,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A.Cross Back Zip Boots 41 m.a+",
-    "price": 374,
+    "price": 373,
     "created": "1681969445",
-    "updated": "1734697654",
+    "updated": "1735125213",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m15399142819_1.jpg?1681992319"
     ],
