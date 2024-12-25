@@ -364,7 +364,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -424,14 +424,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "12",
@@ -707,53 +700,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m46421844924",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m98630248379",
-    "sellerId": "456274802",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "MA+ Boots Guidi Carpe Diem",
-    "price": 286,
-    "created": "1730707134",
-    "updated": "1731068449",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m98630248379_1.jpg?1730707134"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "11",
-        "name": "27cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "11",
-      "name": "27cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "1487",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m98630248379_1.jpg?1730707134"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m98630248379",
     "website": "mercari",
     "location": "japan"
   },
