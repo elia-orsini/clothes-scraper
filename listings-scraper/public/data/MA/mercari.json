@@ -424,7 +424,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "12",
@@ -1466,7 +1473,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1561,9 +1568,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Brand new, unused] m.a+ hooded parka T211DHZ",
-    "price": 271,
+    "price": 266,
     "created": "1708342231",
-    "updated": "1734370016",
+    "updated": "1735130615",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m27190660651_1.jpg?1708342231"
     ],
