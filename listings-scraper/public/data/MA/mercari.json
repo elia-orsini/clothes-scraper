@@ -326,9 +326,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ MA Cross Chester Coat",
-    "price": 281,
+    "price": 280,
     "created": "1733486220",
-    "updated": "1735121759",
+    "updated": "1735223269",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m36170316603_1.jpg?1733486220"
     ],
@@ -411,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1828,7 +1828,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ Leather jacket 50 Slightly damaged Final price",
-    "price": 968,
+    "price": 983,
     "created": "1680692500",
     "updated": "1734068614",
     "thumbnails": [
@@ -1848,14 +1848,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "1"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "5",
