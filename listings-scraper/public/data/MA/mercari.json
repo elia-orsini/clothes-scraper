@@ -185,9 +185,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[Good Condition] m.a+ Wool Coat Long Jacket Chester Coat",
-    "price": 494,
+    "price": 479,
     "created": "1734532271",
-    "updated": "1734972392",
+    "updated": "1735220434",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m57923535894_1.jpg?1734532271"
     ],
@@ -411,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -685,14 +685,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
