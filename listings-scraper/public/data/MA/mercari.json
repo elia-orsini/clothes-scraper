@@ -1,5 +1,52 @@
 [
   {
+    "id": "m33944768613",
+    "sellerId": "940935761",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA+ Knit Parka MA Cross",
+    "price": 614,
+    "created": "1735215451",
+    "updated": "1735215451",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m33944768613_1.jpg?1735215451"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "7",
+        "name": "FREE SIZE"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "7",
+      "name": "FREE SIZE"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "308",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m33944768613_1.jpg?1735215451"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m33944768613",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m53659161608",
     "sellerId": "441259136",
     "buyerId": "",
@@ -364,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -583,7 +630,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1334,9 +1381,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA+ MA Cross Engineer Boots Red",
-    "price": 312,
+    "price": 260,
     "created": "1713958052",
-    "updated": "1732369690",
+    "updated": "1735213202",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m22447335132_1.jpg?1713958052"
     ],
@@ -1419,7 +1466,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
