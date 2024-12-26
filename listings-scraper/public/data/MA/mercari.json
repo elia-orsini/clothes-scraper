@@ -364,7 +364,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -583,7 +583,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -638,7 +638,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -2014,7 +2021,7 @@
     "sellerId": "890043615",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Superb] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
+    "name": "[Best quality] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
     "price": 415,
     "created": "1652600066",
     "updated": "1734166453",
