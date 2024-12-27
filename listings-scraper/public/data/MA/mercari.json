@@ -52,9 +52,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA Cross ma+Black Linen Tailored Jacket",
-    "price": 260,
+    "price": 250,
     "created": "1734948749",
-    "updated": "1734961410",
+    "updated": "1735294200",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m53659161608_1.jpg?1734948749"
     ],
@@ -411,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
