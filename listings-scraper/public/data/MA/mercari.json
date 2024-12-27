@@ -411,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -630,7 +630,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1459,7 +1459,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -2050,58 +2050,11 @@
     "location": "japan"
   },
   {
-    "id": "m68829514254",
-    "sellerId": "890043615",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Best quality] M.A.Cross ZIP tail collar leather jacket size 46 m.a+",
-    "price": 415,
-    "created": "1652600066",
-    "updated": "1734166453",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m68829514254_1.jpg?1694170314"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "2",
-        "name": "S"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "2",
-      "name": "S"
-    },
-    "shippingMethodId": "5",
-    "categoryId": "317",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m68829514254_1.jpg?1694170314"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m68829514254",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m62267111565",
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
