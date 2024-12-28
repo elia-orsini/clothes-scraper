@@ -326,9 +326,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross wool coat",
-    "price": 255,
+    "price": 254,
     "created": "1733560212",
-    "updated": "1735260266",
+    "updated": "1735361550",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m75200668729_1.jpg?1733560212"
     ],
@@ -458,7 +458,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1374,9 +1374,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ MA Cross Carbon Pants",
-    "price": 307,
+    "price": 306,
     "created": "1714838747",
-    "updated": "1731609552",
+    "updated": "1735362838",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m74093951460_1.jpg?1714838747"
     ],
@@ -1506,7 +1506,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
