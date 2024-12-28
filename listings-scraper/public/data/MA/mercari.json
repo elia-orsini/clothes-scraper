@@ -146,9 +146,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ double fold shoes S1P1 VA1.5",
-    "price": 780,
+    "price": 754,
     "created": "1734871544",
-    "updated": "1734871544",
+    "updated": "1735384943",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m32495525019_1.jpg?1734871544"
     ],
@@ -1513,7 +1513,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1998,7 +1998,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "17",
@@ -2021,7 +2028,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
