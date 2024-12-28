@@ -1,5 +1,52 @@
 [
   {
+    "id": "m31220374446",
+    "sellerId": "452803949",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "M.A+ M.A.Cross Cordovan Leather Shirt, Horse Leather, Size 44, Overlock",
+    "price": 676,
+    "created": "1735358353",
+    "updated": "1735358373",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "10850",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m31220374446_1.jpg?1735358353"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m31220374446",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m33944768613",
     "sellerId": "940935761",
     "buyerId": "",
@@ -411,7 +458,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
