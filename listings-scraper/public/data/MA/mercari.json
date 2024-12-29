@@ -7,7 +7,7 @@
     "name": "M.A+ M.A.Cross Cordovan Leather Shirt, Horse Leather, Size 44, Overlock",
     "price": 676,
     "created": "1735358353",
-    "updated": "1735358373",
+    "updated": "1735459841",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -970,53 +970,6 @@
     "location": "japan"
   },
   {
-    "id": "m64071938942",
-    "sellerId": "940935761",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "MA+ Shirt MA Cross Maurizio Amadei",
-    "price": 562,
-    "created": "1726572585",
-    "updated": "1733439983",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m64071938942_1.jpg?1726572585"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "7",
-        "name": "FREE SIZE"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "7",
-      "name": "FREE SIZE"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "1714",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m64071938942_1.jpg?1726572585"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m64071938942",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m46671440345",
     "sellerId": "475577433",
     "buyerId": "",
@@ -1506,7 +1459,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
