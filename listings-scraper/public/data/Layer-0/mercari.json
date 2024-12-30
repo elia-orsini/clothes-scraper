@@ -47,53 +47,6 @@
     "location": "japan"
   },
   {
-    "id": "m51243664163",
-    "sellerId": "593463229",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "LAYER-0 Italian Leather Jacket L-0 FWM 05/02",
-    "price": 244,
-    "created": "1729075257",
-    "updated": "1735558871",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m51243664163_1.jpg?1729075257"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "10850",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m51243664163_1.jpg?1729075257"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m51243664163",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m46384129723",
     "sellerId": "996263302",
     "buyerId": "",
