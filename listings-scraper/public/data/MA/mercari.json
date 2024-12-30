@@ -52,9 +52,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A+ M.A.Cross Cordovan Leather Shirt, Horse Leather, Size 44, Overlock",
-    "price": 676,
+    "price": 675,
     "created": "1735358353",
-    "updated": "1735459841",
+    "updated": "1735561563",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -732,14 +732,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1513,7 +1506,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
