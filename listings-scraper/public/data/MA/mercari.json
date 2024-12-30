@@ -411,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1828,7 +1828,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ Leather jacket 50 Slightly damaged Final price",
-    "price": 983,
+    "price": 968,
     "created": "1680692500",
     "updated": "1734068614",
     "thumbnails": [
@@ -1848,7 +1848,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "1"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "5",
