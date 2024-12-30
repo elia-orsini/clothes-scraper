@@ -227,53 +227,6 @@
     "location": "japan"
   },
   {
-    "id": "m57923535894",
-    "sellerId": "609597229",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "[Good Condition] m.a+ Wool Coat Long Jacket Chester Coat",
-    "price": 479,
-    "created": "1734532271",
-    "updated": "1735271126",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m57923535894_1.jpg?1734532271"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "324",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m57923535894_1.jpg?1734532271"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m57923535894",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m83304139247",
     "sellerId": "995334131",
     "buyerId": "",
@@ -458,7 +411,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -970,6 +923,53 @@
     "location": "japan"
   },
   {
+    "id": "m64071938942",
+    "sellerId": "940935761",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "MA+ Shirt MA Cross Maurizio Amadei",
+    "price": 562,
+    "created": "1726572585",
+    "updated": "1733439983",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m64071938942_1.jpg?1726572585"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "7",
+        "name": "FREE SIZE"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "7",
+      "name": "FREE SIZE"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1714",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m64071938942_1.jpg?1726572585"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m64071938942",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m46671440345",
     "sellerId": "475577433",
     "buyerId": "",
@@ -1459,7 +1459,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1866,6 +1866,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m10958058384",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m24062492793",
+    "sellerId": "836998257",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ma+ Baby calf (reverse) size 43",
+    "price": 936,
+    "created": "1679806764",
+    "updated": "1726750502",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m24062492793_1.jpg?1679806764"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "12",
+        "name": "27.5cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "12",
+      "name": "27.5cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "347",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24062492793_1.jpg?1679806764"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m24062492793",
     "website": "mercari",
     "location": "japan"
   },
