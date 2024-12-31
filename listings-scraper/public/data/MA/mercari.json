@@ -1513,7 +1513,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -2021,6 +2021,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m97880859839",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m29618598870",
+    "sellerId": "851335895",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "[m.a+ Leather Shirt ROSIN GREEN m.a+ Cross]",
+    "price": 676,
+    "created": "1665653854",
+    "updated": "1722462593",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m29618598870_1.jpg?1665653854"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "4",
+        "name": "L"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "4",
+      "name": "L"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "304",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m29618598870_1.jpg?1665653854"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m29618598870",
     "website": "mercari",
     "location": "japan"
   },
