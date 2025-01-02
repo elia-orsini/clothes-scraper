@@ -158,7 +158,14 @@
       "name": "レイヤーゼロ",
       "subName": "LAYER-0"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "2",
