@@ -732,14 +732,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -2018,50 +2011,11 @@
     "location": "japan"
   },
   {
-    "id": "m73932490022",
-    "sellerId": "932552563",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "Only tried on MA+ MA Cross Kangaroo Leather Biker Size 44 m.a+",
-    "price": 598,
-    "created": "1652954639",
-    "updated": "1735812809",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m73932490022_1.jpg?1652954639"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "17",
-    "categoryId": "317",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m73932490022_1.jpg?1652954639"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m73932490022",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m62267111565",
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
