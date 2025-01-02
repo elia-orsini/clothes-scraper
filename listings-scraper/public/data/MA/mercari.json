@@ -545,9 +545,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ knit coat, long jacket, cardigan",
-    "price": 624,
+    "price": 598,
     "created": "1732882390",
-    "updated": "1734228890",
+    "updated": "1735787200",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m65901970400_1.jpg?1732882390"
     ],
@@ -2108,7 +2108,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
     "price": 336,
     "created": "1632903515",
     "updated": "1733157981",
