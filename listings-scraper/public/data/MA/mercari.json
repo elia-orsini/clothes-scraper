@@ -458,7 +458,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -1695,9 +1695,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[New Year&#39;s Price] M.A+ C374 Spiral Coat",
-    "price": 910,
+    "price": 884,
     "created": "1699147709",
-    "updated": "1735751720",
+    "updated": "1735889464",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m33995168340_1.jpg?1727070134"
     ],
