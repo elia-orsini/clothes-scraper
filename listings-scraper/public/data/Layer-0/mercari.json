@@ -47,6 +47,53 @@
     "location": "japan"
   },
   {
+    "id": "m66457518626",
+    "sellerId": "441081644",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0 navy linen long sleeve shirt",
+    "price": 375,
+    "created": "1725762802",
+    "updated": "1735866060",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m66457518626_1.jpg?1725762802"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "1",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "1",
+    "categoryId": "1714",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m66457518626_1.jpg?1725762802"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m66457518626",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m46384129723",
     "sellerId": "996263302",
     "buyerId": "",
@@ -176,6 +223,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m61014149528",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m35356822914",
+    "sellerId": "441081644",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0 Taylor Jacket",
+    "price": 505,
+    "created": "1686210407",
+    "updated": "1735865283",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m35356822914_1.jpg?1686210407"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "1",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "1",
+    "categoryId": "314",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m35356822914_1.jpg?1686210407"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m35356822914",
     "website": "mercari",
     "location": "japan"
   }
