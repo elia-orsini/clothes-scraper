@@ -458,7 +458,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -677,7 +677,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -849,9 +849,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ MA Cross knit dress",
-    "price": 94,
+    "price": 84,
     "created": "1730009403",
-    "updated": "1735801523",
+    "updated": "1735991177",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58995854770_1.jpg?1730009403"
     ],
@@ -1873,53 +1873,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m15399142819",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m24062492793",
-    "sellerId": "836998257",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ Baby calf (reverse) size 43",
-    "price": 936,
-    "created": "1679806764",
-    "updated": "1726750502",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m24062492793_1.jpg?1679806764"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "12",
-        "name": "27.5cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "12",
-      "name": "27.5cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "347",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24062492793_1.jpg?1679806764"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m24062492793",
     "website": "mercari",
     "location": "japan"
   },
