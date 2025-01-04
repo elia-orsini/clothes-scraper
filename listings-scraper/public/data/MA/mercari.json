@@ -1466,7 +1466,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ zipped tall collar shirt",
+    "name": "m.a+ M.A.Cross zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1881,10 +1881,10 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
-    "price": 336,
+    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "price": 335,
     "created": "1632903515",
-    "updated": "1733157981",
+    "updated": "1736014839",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m62267111565_1.jpg?1632903515"
     ],
@@ -1978,7 +1978,7 @@
     "name": "ma+MA Cross Overlock Leather Shirt 44",
     "price": 740,
     "created": "1610913988",
-    "updated": "1733159635",
+    "updated": "1736016262",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m71462276748_1.jpg?1610913988"
     ],
@@ -2015,9 +2015,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA+ Leather Tailored Jacket MA Cross 46",
-    "price": 740,
+    "price": 739,
     "created": "1610913736",
-    "updated": "1733159692",
+    "updated": "1736016334",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m99829245060_1.jpg?1610913736"
     ],
@@ -2062,9 +2062,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA+ MA Cross Cashmere Jacket Coat Long Length",
-    "price": 1514,
+    "price": 1513,
     "created": "1610667502",
-    "updated": "1733159824",
+    "updated": "1736016462",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m93652682645_1.jpg?1610667502"
     ],
