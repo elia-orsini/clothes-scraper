@@ -328,7 +328,7 @@
     "name": "m.a+ M.A.Cross wool coat",
     "price": 251,
     "created": "1733560212",
-    "updated": "1735970628",
+    "updated": "1736072242",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m75200668729_1.jpg?1733560212"
     ],
@@ -458,7 +458,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1733325346",
@@ -732,7 +732,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
