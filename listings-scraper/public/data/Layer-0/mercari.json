@@ -1,52 +1,5 @@
 [
   {
-    "id": "m23403265882",
-    "sellerId": "377334212",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "LAYER-0 Layer Zero Coat",
-    "price": 286,
-    "created": "1731238989",
-    "updated": "1735285838",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m23403265882_1.jpg?1731238989"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "335",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m23403265882_1.jpg?1731238989"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m23403265882",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m66457518626",
     "sellerId": "441081644",
     "buyerId": "",
