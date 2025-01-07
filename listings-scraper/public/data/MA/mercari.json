@@ -592,9 +592,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ knit coat, long jacket, cardigan",
-    "price": 598,
+    "price": 562,
     "created": "1732882390",
-    "updated": "1735787200",
+    "updated": "1736209487",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m65901970400_1.jpg?1732882390"
     ],
@@ -724,7 +724,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
