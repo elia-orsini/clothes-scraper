@@ -1,5 +1,52 @@
 [
   {
+    "id": "m61721688890",
+    "sellerId": "140710288",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ M.A. Cross Coat",
+    "price": 359,
+    "created": "1736243580",
+    "updated": "1736243580",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m61721688890_1.jpg?1736243580"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "4",
+        "name": "L"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "4",
+      "name": "L"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "335",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m61721688890_1.jpg?1736243580"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m61721688890",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m83061654903",
     "sellerId": "653585858",
     "buyerId": "",
@@ -505,7 +552,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1736097799",
@@ -724,7 +771,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a+ belt",
+    "name": "m.a+ belt black size m m.a cross belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1185,53 +1232,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m31606674092",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m73113352820",
-    "sellerId": "901483762",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "Extremely rare m.a+ M.A.Cross short hoodie jacket",
-    "price": 520,
-    "created": "1718774473",
-    "updated": "1718774533",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m73113352820_1.jpg?1718774473"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "154",
-        "name": "XS(SS)"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "154",
-      "name": "XS(SS)"
-    },
-    "shippingMethodId": "17",
-    "categoryId": "132",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m73113352820_1.jpg?1718774473"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m73113352820",
     "website": "mercari",
     "location": "japan"
   },
@@ -1874,7 +1874,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ MA Cross Woven Heavy Jersey Pants 46",
+    "name": "ma+ MA Cross Fabric Heavy Jersey Pants 46",
     "price": 335,
     "created": "1632903515",
     "updated": "1736014839",
