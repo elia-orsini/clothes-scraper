@@ -1,5 +1,44 @@
 [
   {
+    "id": "m15547128380",
+    "sellerId": "515991235",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "M.A.Cross m.a+ storage bag Carpe Diem",
+    "price": 26,
+    "created": "1736246830",
+    "updated": "1736246842",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m15547128380_1.jpg?1736246830"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "413",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m15547128380_1.jpg?1736246830"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m15547128380",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m61721688890",
     "sellerId": "140710288",
     "buyerId": "",
@@ -7,7 +46,7 @@
     "name": "m.a+ M.A. Cross Coat",
     "price": 359,
     "created": "1736243580",
-    "updated": "1736243580",
+    "updated": "1736247949",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m61721688890_1.jpg?1736243580"
     ],
@@ -552,7 +591,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1736097799",
@@ -826,7 +865,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1459,7 +1505,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
