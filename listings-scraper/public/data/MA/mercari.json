@@ -461,7 +461,7 @@
     "name": "m.a+ エムエークロス ウールコート",
     "price": 250,
     "created": "1733560212",
-    "updated": "1736250644",
+    "updated": "1736355397",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m75200668729_1.jpg?1733560212"
     ],
@@ -1307,7 +1307,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
