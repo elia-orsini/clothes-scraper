@@ -138,9 +138,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Taichi Murakami Balmacaan Coat m.a+ CCP",
-    "price": 341,
+    "price": 312,
     "created": "1735534165",
-    "updated": "1735534165",
+    "updated": "1736343083",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m96920367276_1.jpg?1735534165"
     ],
@@ -591,7 +591,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A Cross Leather Tote Bag",
+    "name": "m.a+ M.A.Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1736097799",
@@ -865,14 +865,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
