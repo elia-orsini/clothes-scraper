@@ -638,7 +638,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1736097799",
@@ -1819,53 +1819,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m94374547771",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m15399142819",
-    "sellerId": "175475474",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "M.A.Cross Back Zip Boots 41 m.a+",
-    "price": 371,
-    "created": "1681969445",
-    "updated": "1736251703",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m15399142819_1.jpg?1681992319"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "10",
-        "name": "26.5cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "10",
-      "name": "26.5cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "347",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m15399142819_1.jpg?1681992319"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m15399142819",
     "website": "mercari",
     "location": "japan"
   },
