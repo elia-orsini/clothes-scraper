@@ -373,9 +373,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ M.A.Cross Bangle",
-    "price": 260,
+    "price": 208,
     "created": "1734848613",
-    "updated": "1734868640",
+    "updated": "1736346557",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m54465550908_1.jpg?1734848613"
     ],
@@ -591,7 +591,7 @@
     "sellerId": "910020089",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross Leather Tote Bag",
+    "name": "m.a+ M.A Cross Leather Tote Bag",
     "price": 1300,
     "created": "1733325346",
     "updated": "1736097799",
@@ -651,7 +651,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "12",
@@ -810,7 +817,7 @@
     "sellerId": "758267322",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ belt black size m m.a cross belt",
+    "name": "m.a+ belt black size m m.a+ belt",
     "price": 359,
     "created": "1731690803",
     "updated": "1731690803",
@@ -1459,7 +1466,7 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ M.A.Cross zipped tall collar shirt",
+    "name": "m.a+ zipped tall collar shirt",
     "price": 255,
     "created": "1711887327",
     "updated": "1727610257",
@@ -1742,9 +1749,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA Cross Leather Bangle ma+",
-    "price": 188,
+    "price": 245,
     "created": "1691428403",
-    "updated": "1732324429",
+    "updated": "1736348288",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
