@@ -338,7 +338,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1916,7 +1923,7 @@
     "name": "m.a+ エムエークロス モンクストラップ 短靴",
     "price": 168,
     "created": "1628415717",
-    "updated": "1736365050",
+    "updated": "1736467209",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
