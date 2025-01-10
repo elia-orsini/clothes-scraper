@@ -29,7 +29,7 @@ const Listing: React.FC<{ listing: any; key: any }> = ({ listing, key }) => {
         </div>
 
         <p className="text-xs my-2 sm:h-14 font-bold">
-          {listing.name.slice(0, 60)}
+          {listing.name.slice(0, 35)}
         </p>
 
         <div className="flex flex-row justify-between">
