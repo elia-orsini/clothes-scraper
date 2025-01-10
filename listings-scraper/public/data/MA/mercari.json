@@ -493,53 +493,6 @@
     "location": "japan"
   },
   {
-    "id": "m36170316603",
-    "sellerId": "245045539",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "ma+ エムエークロス チェスターコート",
-    "price": 274,
-    "created": "1733486220",
-    "updated": "1736443288",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m36170316603_1.jpg?1733486220"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "17",
-    "categoryId": "1140",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m36170316603_1.jpg?1733486220"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m36170316603",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m17792373528",
     "sellerId": "910020089",
     "buyerId": "",
