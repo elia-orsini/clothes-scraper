@@ -116,7 +116,7 @@ async function scrapeMercari(brandId, saveLocation, regex, keyword = "") {
 
   for (const item of sortedItems) {
     item.href = `https://jp.mercari.com/item/${item.id}`;
-    item.name = await translate(item.name);
+    item.name = item.name;
     item.price = Math.ceil(item.price * 0.0052);
     item.website = "mercari";
     item.location = "japan";

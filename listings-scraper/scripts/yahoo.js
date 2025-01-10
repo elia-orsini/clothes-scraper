@@ -129,7 +129,7 @@ function scrapeYahoo(url, saveLocation, regex) {
     try {
       for (const item of sortedItems) {
         if (item.title) {
-          item.name = await translate(item.title);
+          item.name = item.title;
         }
       }
     } catch (error) {

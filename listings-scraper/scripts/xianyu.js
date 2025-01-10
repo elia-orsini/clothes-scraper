@@ -48,7 +48,7 @@ async function scrapeXianyu(keyword, path, regex) {
       );
 
       for (const item of filteredItems) {
-        item.name = await translate(item.name);
+        item.name = item.name;
         item.price = Math.ceil(item.price * 0.11);
       }
 
