@@ -2,8 +2,8 @@ name: Scrape Clothes
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/60 * * * *" # Runs every 60 minutes
+  # schedule:
+  # - cron: "*/60 * * * *" # Runs every 60 minutes
 
 jobs:
   build:
@@ -46,7 +46,6 @@ jobs:
       #     path: |
       #       ./screenshot_*.png
       #       ./debug_page_*.html
-
 
       - name: commit changes if any
         if: steps.check_changes.outputs.changed == 'true'
