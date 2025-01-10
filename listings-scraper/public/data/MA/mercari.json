@@ -78,53 +78,6 @@
     "location": "japan"
   },
   {
-    "id": "m61721688890",
-    "sellerId": "140710288",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロス　コート",
-    "price": 359,
-    "created": "1736243580",
-    "updated": "1736247949",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m61721688890_1.jpg?1736243580"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "4",
-        "name": "L"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "4",
-      "name": "L"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "335",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m61721688890_1.jpg?1736243580"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m61721688890",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m83061654903",
     "sellerId": "653585858",
     "buyerId": "",
@@ -226,7 +179,7 @@
     "name": "M.A+ エムエークロス　コードバン　レザーシャツ　馬革　44 オーバーロック",
     "price": 671,
     "created": "1735358353",
-    "updated": "1736375523",
+    "updated": "1736477346",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -1364,6 +1317,45 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m18526562906",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m76959417848",
+    "sellerId": "481186971",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "【ma＋】エムエークロス　ドクターバッグ",
+    "price": 463,
+    "created": "1715671168",
+    "updated": "1728656250",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m76959417848_1.jpg?1715671168"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "363",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m76959417848_1.jpg?1715671168"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m76959417848",
     "website": "mercari",
     "location": "japan"
   },
