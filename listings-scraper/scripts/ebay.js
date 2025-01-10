@@ -1,8 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
 
-const CLIENT_ID = "eo-grailedh-PRD-1b6b95e65-615e1ae9";
-const CLIENT_SECRET = "PRD-b6b95e65af6f-7690-45c8-906f-9c71";
+const CLIENT_ID = "";
+const CLIENT_SECRET = "";
 
 const TOKEN_URL = "https://api.ebay.com/identity/v1/oauth2/token";
 const SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search";
