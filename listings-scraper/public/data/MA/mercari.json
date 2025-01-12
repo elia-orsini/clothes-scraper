@@ -83,9 +83,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA+ エムエークロス レザージャケット　サイズ50",
-    "price": 1446,
+    "price": 1342,
     "created": "1736167482",
-    "updated": "1736418345",
+    "updated": "1736690808",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m83061654903_1.jpg?1736167482"
     ],
@@ -103,14 +103,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "4",
@@ -817,14 +810,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
