@@ -1,6 +1,5 @@
 const { chromium } = require("playwright"); // Install Playwright via npm install playwright
 const fs = require("fs");
-const { translate } = require("./translate");
 
 const transformData = (receivedData) => {
   const item = receivedData?.data?.item?.main;

@@ -1,6 +1,5 @@
 const axios = require("axios");
 const fs = require("fs");
-const { translate } = require("./translate");
 const { chromium } = require("playwright");
 
 async function getDpop() {

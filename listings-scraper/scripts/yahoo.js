@@ -1,6 +1,5 @@
 const { chromium } = require("playwright-extra");
 const fs = require("fs");
-const { translate } = require("./translate");
 const stealth = require("puppeteer-extra-plugin-stealth");
 
 function scrapeYahoo(url, saveLocation, regex) {
