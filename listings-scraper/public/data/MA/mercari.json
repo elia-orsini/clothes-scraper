@@ -1234,7 +1234,7 @@
     "name": "ma+ エムエークロス カーボン　パンツ",
     "price": 306,
     "created": "1714838747",
-    "updated": "1735362838",
+    "updated": "1736881094",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m74093951460_1.jpg?1714838747"
     ],
@@ -1341,14 +1341,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "17",
@@ -1392,14 +1385,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "14"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "154",
