@@ -78,53 +78,6 @@
     "location": "japan"
   },
   {
-    "id": "m83061654903",
-    "sellerId": "653585858",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "MA+ エムエークロス レザージャケット　サイズ50",
-    "price": 1238,
-    "created": "1736167482",
-    "updated": "1736808537",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m83061654903_1.jpg?1736167482"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "4",
-        "name": "L"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "4",
-      "name": "L"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "10850",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m83061654903_1.jpg?1736167482"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m83061654903",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m96920367276",
     "sellerId": "582669911",
     "buyerId": "",
@@ -1083,45 +1036,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m99101136568",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m30110996262",
-    "sellerId": "765001790",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロス レザーブレスレット",
-    "price": 250,
-    "created": "1722601103",
-    "updated": "1736000798",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m30110996262_1.jpg?1722601103"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "5",
-    "categoryId": "377",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m30110996262_1.jpg?1722601103"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m30110996262",
     "website": "mercari",
     "location": "japan"
   },
