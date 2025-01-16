@@ -1366,7 +1366,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[値下げ最後です] ma+ レザージャケット",
-    "price": 416,
+    "price": 401,
     "created": "1702368025",
     "updated": "1733728002",
     "thumbnails": [
@@ -1386,7 +1386,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "3"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "154",
@@ -1507,9 +1514,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 182,
+    "price": 180,
     "created": "1691428403",
-    "updated": "1736489013",
+    "updated": "1737005895",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
