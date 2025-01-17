@@ -1,5 +1,52 @@
 [
   {
+    "id": "m88418731055",
+    "sellerId": "542278408",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ エムエークロス P126ヘビージャージパンツ",
+    "price": 364,
+    "created": "1737124607",
+    "updated": "1737125311",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m88418731055_1.jpg?1737124793"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "10855",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m88418731055_1.jpg?1737124793"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m88418731055",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m13767440820",
     "sellerId": "515991235",
     "buyerId": "",
