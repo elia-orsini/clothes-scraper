@@ -1595,6 +1595,45 @@
     "location": "japan"
   },
   {
+    "id": "m94374547771",
+    "sellerId": "557376048",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "エムエークロス 十字 レザーバングル ma+",
+    "price": 292,
+    "created": "1691428403",
+    "updated": "1737215988",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "394",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m94374547771_1.jpg?1691428403"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m94374547771",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m97880859839",
     "sellerId": "310260597",
     "buyerId": "",
