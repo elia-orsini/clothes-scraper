@@ -849,14 +849,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "15"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1552,7 +1545,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "値下げ！　エムエークロス　m.a＋　ロングウォレット　XL yen 財布",
-    "price": 198,
+    "price": 182,
     "created": "1700591449",
     "updated": "1737283829",
     "thumbnails": [
@@ -1569,9 +1562,9 @@
     },
     "itemPromotions": [
       {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
         "details": {
-          "percentage": "17"
+          "percentage": "7"
         }
       }
     ],
