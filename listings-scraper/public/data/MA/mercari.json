@@ -1451,7 +1451,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　ロングコートMa+ Maurizio Amadei",
-    "price": 832,
+    "price": 817,
     "created": "1711689627",
     "updated": "1734225523",
     "thumbnails": [
@@ -1471,7 +1471,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "1"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1692,9 +1699,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 292,
+    "price": 286,
     "created": "1691428403",
-    "updated": "1737215988",
+    "updated": "1737612200",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
