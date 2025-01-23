@@ -7,7 +7,7 @@
     "name": "エムエークロス m.a+ 保存袋",
     "price": 15,
     "created": "1737277389",
-    "updated": "1737450450",
+    "updated": "1737631937",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m38091800945_1.jpg?1737277389"
     ],
@@ -849,7 +849,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
