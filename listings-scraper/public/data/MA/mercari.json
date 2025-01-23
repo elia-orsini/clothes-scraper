@@ -20,7 +20,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "14",
@@ -1544,10 +1551,10 @@
     "sellerId": "193227749",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "値下げ！　エムエークロス　m.a＋　ロングウォレット　XL yen 財布",
-    "price": 182,
+    "name": "売り切り価格！　エムエークロス　m.a＋　ロングウォレット　XL yen 財布",
+    "price": 167,
     "created": "1700591449",
-    "updated": "1737283829",
+    "updated": "1737607544",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m76838319063_1.jpg?1700998561"
     ],
@@ -1564,7 +1571,7 @@
       {
         "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
         "details": {
-          "percentage": "7"
+          "percentage": "8"
         }
       }
     ],
