@@ -1498,7 +1498,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[値下げ最後です] ma+ レザージャケット",
-    "price": 401,
+    "price": 416,
     "created": "1702368025",
     "updated": "1733728002",
     "thumbnails": [
@@ -1518,14 +1518,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "3"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "154",
@@ -1552,7 +1545,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "売り切り価格！　エムエークロス　m.a＋　ロングウォレット　XL yen 財布",
-    "price": 167,
+    "price": 182,
     "created": "1700591449",
     "updated": "1737607544",
     "thumbnails": [
@@ -1567,14 +1560,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "8"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "14",
