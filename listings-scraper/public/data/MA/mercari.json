@@ -743,53 +743,6 @@
     "location": "japan"
   },
   {
-    "id": "m64839627269",
-    "sellerId": "714173689",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "【美品】H252DZ DAV0.5 Size44 /m.a+ エムエークロス",
-    "price": 364,
-    "created": "1732723241",
-    "updated": "1737469174",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m64839627269_1.jpg?1732723241"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "2",
-        "name": "S"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "2",
-      "name": "S"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "10850",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m64839627269_1.jpg?1732723241"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m64839627269",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m42524970996",
     "sellerId": "758267322",
     "buyerId": "",
@@ -1237,7 +1190,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
