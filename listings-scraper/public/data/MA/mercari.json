@@ -1190,7 +1190,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1345,53 +1352,6 @@
     "location": "japan"
   },
   {
-    "id": "m54093685165",
-    "sellerId": "901483762",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロス zipped tall collar shirt",
-    "price": 255,
-    "created": "1711887327",
-    "updated": "1727610257",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m54093685165_1.jpg?1711887327"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "6",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "154",
-        "name": "XS(SS)"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "154",
-      "name": "XS(SS)"
-    },
-    "shippingMethodId": "17",
-    "categoryId": "320",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m54093685165_1.jpg?1711887327"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m54093685165",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m19364197010",
     "sellerId": "692860979",
     "buyerId": "",
@@ -1442,6 +1402,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m19364197010",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m55899548569",
+    "sellerId": "691432563",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+のショートブーツ",
+    "price": 324,
+    "created": "1704723403",
+    "updated": "1737822154",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m55899548569_1.jpg?1722347724"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "11",
+        "name": "27cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "11",
+      "name": "27cm"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "347",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m55899548569_1.jpg?1722347724"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m55899548569",
     "website": "mercari",
     "location": "japan"
   },
