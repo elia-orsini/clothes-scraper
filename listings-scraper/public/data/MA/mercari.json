@@ -7,7 +7,7 @@
     "name": "エムエークロス m.a+ 保存袋",
     "price": 14,
     "created": "1737277389",
-    "updated": "1737761829",
+    "updated": "1737812713",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m38091800945_1.jpg?1737277389"
     ],
@@ -216,9 +216,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A+ エムエークロス　コードバン　レザーシャツ　馬革　44 オーバーロック",
-    "price": 665,
+    "price": 664,
     "created": "1735358353",
-    "updated": "1737708350",
+    "updated": "1737811501",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -802,14 +802,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "15"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
