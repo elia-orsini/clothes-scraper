@@ -1397,7 +1397,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　ロングコートMa+ Maurizio Amadei",
-    "price": 817,
+    "price": 832,
     "created": "1711689627",
     "updated": "1734225523",
     "thumbnails": [
@@ -1417,14 +1417,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "1"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1813,7 +1806,7 @@
     "name": "m.a+ エムエークロス モンクストラップ 短靴",
     "price": 161,
     "created": "1628415717",
-    "updated": "1737800678",
+    "updated": "1737904041",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58182435916_1.jpg?1628415717"
     ],
