@@ -490,9 +490,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス ウールコート",
-    "price": 243,
+    "price": 242,
     "created": "1733560212",
-    "updated": "1737768928",
+    "updated": "1737872104",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m75200668729_1.jpg?1733560212"
     ],
@@ -1341,6 +1341,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m16771998935",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m54093685165",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ エムエークロス zipped tall collar shirt",
+    "price": 255,
+    "created": "1711887327",
+    "updated": "1727610257",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m54093685165_1.jpg?1711887327"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "6",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "154",
+        "name": "XS(SS)"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "154",
+      "name": "XS(SS)"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "320",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m54093685165_1.jpg?1711887327"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m54093685165",
     "website": "mercari",
     "location": "japan"
   },
