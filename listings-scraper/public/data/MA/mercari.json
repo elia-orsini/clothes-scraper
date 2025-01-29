@@ -7,7 +7,7 @@
     "name": "エムエークロス m.a+ 保存袋",
     "price": 11,
     "created": "1737277389",
-    "updated": "1737936725",
+    "updated": "1738131585",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m38091800945_1.jpg?1737277389"
     ],
@@ -1212,6 +1212,45 @@
     "location": "japan"
   },
   {
+    "id": "m76959417848",
+    "sellerId": "481186971",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "【ma＋】エムエークロス　ドクターバッグ",
+    "price": 463,
+    "created": "1715671168",
+    "updated": "1728656250",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m76959417848_1.jpg?1715671168"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "363",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m76959417848_1.jpg?1715671168"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m76959417848",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m74093951460",
     "sellerId": "910020089",
     "buyerId": "",
@@ -1302,45 +1341,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m22447335132",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m16771998935",
-    "sellerId": "901483762",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロスBQ50 small squared small bag",
-    "price": 520,
-    "created": "1712715942",
-    "updated": "1717249124",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m16771998935_1.jpg?1712715942"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "17",
-    "categoryId": "1735",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m16771998935_1.jpg?1712715942"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m16771998935",
     "website": "mercari",
     "location": "japan"
   },
