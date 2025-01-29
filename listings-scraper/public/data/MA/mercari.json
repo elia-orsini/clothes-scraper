@@ -802,7 +802,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1125,7 +1132,7 @@
     "name": "m.a+ エムエークロス レザージャケットsize46",
     "price": 766,
     "created": "1722121594",
-    "updated": "1737892455",
+    "updated": "1738147259",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31606674092_1.jpg?1722121594"
     ],
