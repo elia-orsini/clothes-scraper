@@ -809,7 +809,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1545,9 +1552,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "Mａクロス、ma+ダッフルコート",
-    "price": 578,
+    "price": 562,
     "created": "1698912742",
-    "updated": "1737723398",
+    "updated": "1738406666",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m48062294386_1.jpg?1698912742"
     ],
