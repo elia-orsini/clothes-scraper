@@ -1,5 +1,52 @@
 [
   {
+    "id": "m87553121226",
+    "sellerId": "206680679",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "LAYER-0 GUIDI社製コードバンレザーブーツスニーカー 43 ソール新品",
+    "price": 442,
+    "created": "1738463481",
+    "updated": "1738463537",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m87553121226_1.jpg?1738463481"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "13",
+        "name": "28cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "13",
+      "name": "28cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "8744",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m87553121226_1.jpg?1738463481"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m87553121226",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m58247624350",
     "sellerId": "521874867",
     "buyerId": "",
