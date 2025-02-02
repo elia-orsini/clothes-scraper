@@ -86,45 +86,6 @@
     "location": "japan"
   },
   {
-    "id": "m13767440820",
-    "sellerId": "515991235",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "エムエークロス m.a＋ マグネットタグ 2個 カルペディエム",
-    "price": 3,
-    "created": "1736419604",
-    "updated": "1737952265",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m13767440820_1.jpg?1736419604"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "9",
-    "categoryId": "413",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m13767440820_1.jpg?1736419604"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m13767440820",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m15547128380",
     "sellerId": "515991235",
     "buyerId": "",
