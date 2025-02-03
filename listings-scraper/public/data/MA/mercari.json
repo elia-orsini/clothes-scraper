@@ -1220,53 +1220,6 @@
     "location": "japan"
   },
   {
-    "id": "m22447335132",
-    "sellerId": "931295299",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "MA+ エムエークロス　エンジニアブーツ 赤",
-    "price": 260,
-    "created": "1713958052",
-    "updated": "1735213202",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m22447335132_1.jpg?1713958052"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "5",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "11",
-        "name": "27cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "11",
-      "name": "27cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "347",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m22447335132_1.jpg?1713958052"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m22447335132",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m19364197010",
     "sellerId": "692860979",
     "buyerId": "",
