@@ -1540,6 +1540,53 @@
     "location": "japan"
   },
   {
+    "id": "m21841829796",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ware ウェア m.a＋ エムエークロス プルオーバー フーディー",
+    "price": 73,
+    "created": "1672321513",
+    "updated": "1738649129",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m21841829796_1.jpg?1672321513"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "154",
+        "name": "XS(SS)"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "154",
+      "name": "XS(SS)"
+    },
+    "shippingMethodId": "17",
+    "categoryId": "308",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m21841829796_1.jpg?1672321513"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m21841829796",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m97880859839",
     "sellerId": "310260597",
     "buyerId": "",
