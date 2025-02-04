@@ -1688,53 +1688,6 @@
     "location": "japan"
   },
   {
-    "id": "m57270226033",
-    "sellerId": "720545755",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "エムエークロス m.a+ レザーシャツ レザージャケット",
-    "price": 312,
-    "created": "1645429852",
-    "updated": "1738688610",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m57270226033_1.jpg?1645429852"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "304",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m57270226033_1.jpg?1645429852"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m57270226033",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m62267111565",
     "sellerId": "910020089",
     "buyerId": "",
