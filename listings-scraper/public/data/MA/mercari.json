@@ -1,5 +1,52 @@
 [
   {
+    "id": "m24492803844",
+    "sellerId": "662278433",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ エムエークロス　ブラック　コート　ジャケット　ストール　フード　ダブル",
+    "price": 510,
+    "created": "1738660585",
+    "updated": "1738660700",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m24492803844_1.jpg?1738660585"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "7",
+        "name": "FREE SIZE"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "7",
+      "name": "FREE SIZE"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1140",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24492803844_1.jpg?1738660585"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m24492803844",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m38091800945",
     "sellerId": "201035699",
     "buyerId": "",
