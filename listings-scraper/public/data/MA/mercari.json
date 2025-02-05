@@ -39,53 +39,6 @@
     "location": "japan"
   },
   {
-    "id": "m57394394150",
-    "sellerId": "175475474",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a＋ エムエークロス アビエイター コットンジップアップ ベスト",
-    "price": 312,
-    "created": "1738724075",
-    "updated": "1738724135",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m57394394150_1.jpg?1738724075"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "2",
-        "name": "S"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "2",
-      "name": "S"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "312",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m57394394150_1.jpg?1738724075"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m57394394150",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m24492803844",
     "sellerId": "662278433",
     "buyerId": "",
@@ -896,7 +849,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1725,9 +1685,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "【超希少コードバン】m.a+ S2H1 CO slim fit oxford",
-    "price": 1300,
+    "price": 1274,
     "created": "1668931154",
-    "updated": "1738238973",
+    "updated": "1738753964",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m97880859839_1.jpg?1668931154"
     ],
