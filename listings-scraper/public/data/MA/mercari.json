@@ -219,45 +219,6 @@
     "location": "japan"
   },
   {
-    "id": "m15547128380",
-    "sellerId": "515991235",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "エムエークロス m.a＋ 保存袋 カルペディエム",
-    "price": 15,
-    "created": "1736246830",
-    "updated": "1738663093",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m15547128380_1.jpg?1736246830"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "17",
-    "categoryId": "413",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m15547128380_1.jpg?1736246830"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m15547128380",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m96920367276",
     "sellerId": "582669911",
     "buyerId": "",
