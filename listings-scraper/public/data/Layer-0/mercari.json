@@ -1,5 +1,52 @@
 [
   {
+    "id": "m54049430877",
+    "sellerId": "355768626",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0レイヤーゼロ　アンクルブーツ",
+    "price": 416,
+    "created": "1738722834",
+    "updated": "1738722871",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m54049430877_1.jpg?1738722834"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "11",
+        "name": "27cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "11",
+      "name": "27cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "8702",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m54049430877_1.jpg?1738722834"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m54049430877",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m87553121226",
     "sellerId": "206680679",
     "buyerId": "",
