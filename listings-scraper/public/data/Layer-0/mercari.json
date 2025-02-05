@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "layer-0レイヤーゼロ　アンクルブーツ",
-    "price": 286,
+    "price": 281,
     "created": "1738722834",
-    "updated": "1738766838",
+    "updated": "1738793891",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m54049430877_1.jpg?1738722834"
     ],
@@ -21,9 +21,9 @@
       }
     ],
     "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
+      "id": "5699",
+      "name": "グイディ",
+      "subName": "GUIDI"
     },
     "itemPromotions": [],
     "shopName": "",
