@@ -1405,7 +1405,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "[値下げ最後です] ma+ レザージャケット",
-    "price": 416,
+    "price": 401,
     "created": "1702368025",
     "updated": "1733728002",
     "thumbnails": [
@@ -1425,7 +1425,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "3"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "154",
