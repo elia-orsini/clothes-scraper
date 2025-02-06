@@ -1459,7 +1459,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "売り切り価格！　エムエークロス　m.a＋　ロングウォレット　XL yen 財布",
-    "price": 167,
+    "price": 182,
     "created": "1700591449",
     "updated": "1737607544",
     "thumbnails": [
@@ -1474,14 +1474,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
-        "details": {
-          "percentage": "8"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "14",
@@ -1599,9 +1592,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 263,
+    "price": 258,
     "created": "1691428403",
-    "updated": "1738820900",
+    "updated": "1738853156",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
