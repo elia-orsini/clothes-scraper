@@ -46,7 +46,7 @@
     "name": "m.a+ エムエークロス　ブラック　コート　ジャケット　ストール　フード　ダブル",
     "price": 458,
     "created": "1738660585",
-    "updated": "1738748732",
+    "updated": "1738850955",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m24492803844_1.jpg?1738660585"
     ],
@@ -849,14 +849,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "15"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
