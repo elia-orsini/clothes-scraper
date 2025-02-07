@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス レザーベルト MA+",
-    "price": 211,
+    "price": 208,
     "created": "1738742997",
-    "updated": "1738905954",
+    "updated": "1738931603",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m11760671063_1.jpg?1738742997"
     ],
@@ -145,7 +145,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "14",
@@ -662,9 +669,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "名作 MA+ エムエークロス LACE STITCHED SHOES",
-    "price": 741,
+    "price": 739,
     "created": "1733285949",
-    "updated": "1738758037",
+    "updated": "1738931748",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m77409711317_1.jpg?1733285949"
     ],
