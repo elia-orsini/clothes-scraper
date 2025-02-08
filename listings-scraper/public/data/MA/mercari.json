@@ -132,7 +132,7 @@
     "name": "エムエークロス m.a+ 保存袋",
     "price": 8,
     "created": "1737277389",
-    "updated": "1738996449",
+    "updated": "1739002156",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m38091800945_1.jpg?1737277389"
     ],
@@ -1083,6 +1083,53 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m46671440345",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m44251688941",
+    "sellerId": "931295299",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "カルペ　ma+エムエークロス ブーツ",
+    "price": 347,
+    "created": "1726118840",
+    "updated": "1739002410",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m44251688941_1.jpg?1726118840"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "5",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "11",
+        "name": "27cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "11",
+      "name": "27cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "347",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m44251688941_1.jpg?1726118840"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m44251688941",
     "website": "mercari",
     "location": "japan"
   },
