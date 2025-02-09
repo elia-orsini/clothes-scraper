@@ -1595,6 +1595,53 @@
     "location": "japan"
   },
   {
+    "id": "m71116392902",
+    "sellerId": "692860979",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "エムエークロスma+ 靴",
+    "price": 312,
+    "created": "1696122406",
+    "updated": "1739058385",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m71116392902_1.jpg?1696122406"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "1",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "136",
+        "name": "25cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "136",
+      "name": "25cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "350",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m71116392902_1.jpg?1696122406"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m71116392902",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m94374547771",
     "sellerId": "557376048",
     "buyerId": "",
