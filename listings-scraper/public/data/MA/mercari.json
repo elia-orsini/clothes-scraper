@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス レザーベルト MA+",
-    "price": 172,
+    "price": 167,
     "created": "1738742997",
-    "updated": "1739094321",
+    "updated": "1739099012",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m11760671063_1.jpg?1738742997"
     ],
@@ -44,9 +44,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス　ブラック　コート　ジャケット　ストール　フード　ダブル",
-    "price": 405,
+    "price": 364,
     "created": "1738660585",
-    "updated": "1739074388",
+    "updated": "1739102211",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m24492803844_1.jpg?1738660585"
     ],
@@ -810,7 +810,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1591,6 +1598,60 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m48062294386",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m45232003771",
+    "sellerId": "394465971",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ エムエークロス カットソー ワンピース Tシャツ 黒",
+    "price": 190,
+    "created": "1698187445",
+    "updated": "1704611488",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m45232003771_1.jpg?1698187445"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "302",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m45232003771_1.jpg?1698187445"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m45232003771",
     "website": "mercari",
     "location": "japan"
   },
