@@ -974,9 +974,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス m.a+ レザー ベルト 925 編み込み　メッシュベルト",
-    "price": 508,
+    "price": 507,
     "created": "1727637637",
-    "updated": "1736359026",
+    "updated": "1739206541",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m67473202067_1.jpg?1727637637"
     ],
@@ -1252,7 +1252,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1440,14 +1447,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "154",
