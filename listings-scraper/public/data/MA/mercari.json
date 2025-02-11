@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス レザーベルト MA+",
-    "price": 156,
+    "price": 151,
     "created": "1738742997",
-    "updated": "1739266196",
+    "updated": "1739271522",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m11760671063_1.jpg?1738742997"
     ],
@@ -35,53 +35,6 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m11760671063",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
-    "id": "m24492803844",
-    "sellerId": "662278433",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロス　ブラック　コート　ジャケット　ストール　フード　ダブル",
-    "price": 354,
-    "created": "1738660585",
-    "updated": "1739268989",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m24492803844_1.jpg?1738660585"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "7",
-        "name": "FREE SIZE"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "7",
-      "name": "FREE SIZE"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "1140",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m24492803844_1.jpg?1738660585"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m24492803844",
     "website": "mercari",
     "location": "japan"
   },
@@ -817,7 +770,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
