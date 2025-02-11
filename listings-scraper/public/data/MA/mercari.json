@@ -922,53 +922,6 @@
     "location": "japan"
   },
   {
-    "id": "m49858909847",
-    "sellerId": "873246212",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ エムエークロス　バッファローレザー　ブーツ",
-    "price": 780,
-    "created": "1729823055",
-    "updated": "1729823055",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m49858909847_1.jpg?1729823055"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "137",
-        "name": "25.5cm"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "137",
-      "name": "25.5cm"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "8744",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m49858909847_1.jpg?1729823055"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m49858909847",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m67473202067",
     "sellerId": "910020089",
     "buyerId": "",
