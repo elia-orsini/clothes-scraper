@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス レザーベルト MA+",
-    "price": 136,
+    "price": 130,
     "created": "1738742997",
-    "updated": "1739358066",
+    "updated": "1739444384",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m11760671063_1.jpg?1738742997"
     ],
@@ -770,7 +770,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
