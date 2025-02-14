@@ -724,7 +724,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1271,6 +1278,52 @@
     ],
     "auction": null,
     "href": "https://jp.mercari.com/item/m55899548569",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
+    "id": "m68504748014",
+    "sellerId": "901483762",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "超希少品 m.a+ Doctor chain bag",
+    "price": 463,
+    "created": "1703571609",
+    "updated": "1709681033",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m68504748014_1.jpg?1703571609"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "4",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "14"
+        }
+      }
+    ],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "17",
+    "categoryId": "1492",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m68504748014_1.jpg?1703571609"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m68504748014",
     "website": "mercari",
     "location": "japan"
   },
