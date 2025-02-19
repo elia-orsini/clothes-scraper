@@ -576,9 +576,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　m.a+ ニットコート　ロングジャケット　カーディガン",
-    "price": 494,
+    "price": 531,
     "created": "1732882390",
-    "updated": "1738396600",
+    "updated": "1739954797",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m65901970400_1.jpg?1732882390"
     ],
@@ -600,7 +600,7 @@
       {
         "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
         "details": {
-          "percentage": "3"
+          "percentage": "2"
         }
       }
     ],
