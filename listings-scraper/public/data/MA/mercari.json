@@ -1057,7 +1057,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1671,9 +1678,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "ma+ エムエークロス 布帛ヘビージャージーパンツ　46",
-    "price": 335,
+    "price": 334,
     "created": "1632903515",
-    "updated": "1737664575",
+    "updated": "1740069719",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m62267111565_1.jpg?1632903515"
     ],
@@ -1720,7 +1727,7 @@
     "name": "ma+エムエークロス オーバーロックレザーシャツ 44",
     "price": 739,
     "created": "1610913988",
-    "updated": "1737666003",
+    "updated": "1740071122",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m71462276748_1.jpg?1610913988"
     ],
@@ -1757,9 +1764,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA＋ レザーテーラードジャケット　エムエークロス　46",
-    "price": 739,
+    "price": 738,
     "created": "1610913736",
-    "updated": "1737666079",
+    "updated": "1740071177",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m99829245060_1.jpg?1610913736"
     ],
@@ -1804,9 +1811,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA＋ エムエークロス カシミヤジャケット　コート　ロング丈",
-    "price": 1513,
+    "price": 1512,
     "created": "1610667502",
-    "updated": "1737666216",
+    "updated": "1740071297",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m93652682645_1.jpg?1610667502"
     ],
