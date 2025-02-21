@@ -1,5 +1,52 @@
 [
   {
+    "id": "m95867988818",
+    "sellerId": "801801056",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "LAYER-0(レイヤーゼロ)シングルコート(ロングジャケット)",
+    "price": 1040,
+    "created": "1740143217",
+    "updated": "1740143217",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m95867988818_1.jpg?1740143217"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "2",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "2",
+        "name": "S"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "2",
+      "name": "S"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1140",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m95867988818_1.jpg?1740143217"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m95867988818",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m70114098347",
     "sellerId": "521874867",
     "buyerId": "",
@@ -99,9 +146,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "layer-0レイヤーゼロ レザー　スニーカー",
-    "price": 510,
+    "price": 484,
     "created": "1738287560",
-    "updated": "1739524361",
+    "updated": "1740143316",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m58247624350_1.jpg?1738287560"
     ],
