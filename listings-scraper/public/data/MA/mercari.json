@@ -5,11 +5,11 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ エムエークロス バングル",
-    "price": 245,
+    "price": 203,
     "created": "1739697059",
-    "updated": "1739945980",
+    "updated": "1740228619",
     "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m95920298234_1.jpg?1739697059"
+      "https://static.mercdn.net/item/detail/orig/photos/m95920298234_1.jpg?1740228619"
     ],
     "itemType": "ITEM_TYPE_MERCARI",
     "itemConditionId": "3",
@@ -30,7 +30,7 @@
     "isLiked": false,
     "photos": [
       {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m95920298234_1.jpg?1739697059"
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m95920298234_1.jpg?1740228619"
       }
     ],
     "auction": null,
