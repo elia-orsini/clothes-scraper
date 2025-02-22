@@ -1,20 +1,25 @@
 [
   {
-    "id": "m61894798211",
-    "sellerId": "714015300",
+    "id": "m30102959134",
+    "sellerId": "468704994",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "M.A＋ バングル 925 クロス",
-    "price": 156,
-    "created": "1740199303",
-    "updated": "1740199403",
+    "name": "m.a+ ボーダーT",
+    "price": 31,
+    "created": "1740210847",
+    "updated": "1740210847",
     "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m61894798211_1.jpg?1740199303"
+      "https://static.mercdn.net/item/detail/orig/photos/m30102959134_1.jpg?1740210847"
     ],
     "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "3",
+    "itemConditionId": "4",
     "shippingPayerId": "2",
-    "itemSizes": [],
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
     "itemBrand": {
       "id": "7617",
       "name": "エムエークロス",
@@ -22,19 +27,22 @@
     },
     "itemPromotions": [],
     "shopName": "",
-    "itemSize": null,
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
     "shippingMethodId": "14",
-    "categoryId": "377",
+    "categoryId": "302",
     "isNoPrice": false,
     "title": "",
     "isLiked": false,
     "photos": [
       {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m61894798211_1.jpg?1740199303"
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m30102959134_1.jpg?1740210847"
       }
     ],
     "auction": null,
-    "href": "https://jp.mercari.com/item/m61894798211",
+    "href": "https://jp.mercari.com/item/m30102959134",
     "website": "mercari",
     "location": "japan"
   },
