@@ -1,52 +1,5 @@
 [
   {
-    "id": "m30102959134",
-    "sellerId": "468704994",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ ボーダーT",
-    "price": 31,
-    "created": "1740210847",
-    "updated": "1740210847",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m30102959134_1.jpg?1740210847"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "14",
-    "categoryId": "302",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m30102959134_1.jpg?1740210847"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m30102959134",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m95920298234",
     "sellerId": "897936069",
     "buyerId": "",
