@@ -318,9 +318,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ double fold shoes S1P1 VA1.5",
-    "price": 676,
+    "price": 624,
     "created": "1734871544",
-    "updated": "1739521814",
+    "updated": "1740311487",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m32495525019_1.jpg?1734871544"
     ],
@@ -716,7 +716,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
