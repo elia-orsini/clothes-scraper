@@ -179,7 +179,7 @@
     "name": "M.A+ エムエークロス　コードバン　レザーシャツ　馬革　44 オーバーロック",
     "price": 652,
     "created": "1735358353",
-    "updated": "1740198832",
+    "updated": "1740302943",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -1240,7 +1240,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "14"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "17",
