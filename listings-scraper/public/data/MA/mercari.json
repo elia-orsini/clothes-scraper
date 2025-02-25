@@ -1,5 +1,44 @@
 [
   {
+    "id": "m95737345453",
+    "sellerId": "468704994",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ 長財布",
+    "price": 167,
+    "created": "1740461719",
+    "updated": "1740461719",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m95737345453_1.jpg?1740461719"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "5",
+    "shippingPayerId": "2",
+    "itemSizes": [],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": null,
+    "shippingMethodId": "14",
+    "categoryId": "384",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m95737345453_1.jpg?1740461719"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m95737345453",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m39431425290",
     "sellerId": "840609312",
     "buyerId": "",
