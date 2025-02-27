@@ -654,7 +654,7 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス　m.a+ ニットコート　ロングジャケット　カーディガン",
-    "price": 546,
+    "price": 531,
     "created": "1732882390",
     "updated": "1739954797",
     "thumbnails": [
@@ -674,7 +674,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_DISCOUNT",
+        "details": {
+          "percentage": "2"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "7",
@@ -1616,9 +1623,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 232,
+    "price": 229,
     "created": "1691428403",
-    "updated": "1740584353",
+    "updated": "1740626197",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
