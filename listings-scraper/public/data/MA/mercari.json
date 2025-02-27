@@ -255,9 +255,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A+ エムエークロス　コードバン　レザーシャツ　馬革　44 オーバーロック",
-    "price": 650,
+    "price": 676,
     "created": "1735358353",
-    "updated": "1740512142",
+    "updated": "1740674114",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
@@ -710,7 +710,7 @@
     "name": "m.a+ silver stitched cross ring クロス　リング",
     "price": 311,
     "created": "1732803753",
-    "updated": "1738560670",
+    "updated": "1740673605",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m78896354279_1.jpg?1732803753"
     ],
@@ -1142,7 +1142,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
