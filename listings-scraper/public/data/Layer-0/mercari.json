@@ -282,45 +282,6 @@
     "location": "japan"
   },
   {
-    "id": "m87704807536",
-    "sellerId": "242616814",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "LAYER-0 HORSE R. GREEN 緑 ハット アーカイブ",
-    "price": 624,
-    "created": "1719137374",
-    "updated": "1738713716",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m87704807536_1.jpg?1719137374"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "14",
-    "categoryId": "373",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m87704807536_1.jpg?1719137374"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m87704807536",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m61014149528",
     "sellerId": "277860098",
     "buyerId": "",
