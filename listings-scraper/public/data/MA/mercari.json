@@ -1,5 +1,52 @@
 [
   {
+    "id": "m61145039330",
+    "sellerId": "468704994",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "m.a+ ロングカーディガン",
+    "price": 182,
+    "created": "1740794240",
+    "updated": "1740794240",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m61145039330_1.jpg?1740794240"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1428",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m61145039330_1.jpg?1740794240"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m61145039330",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m95737345453",
     "sellerId": "468704994",
     "buyerId": "",
