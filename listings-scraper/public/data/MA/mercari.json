@@ -961,45 +961,6 @@
     "location": "japan"
   },
   {
-    "id": "m89778572851",
-    "sellerId": "910020089",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ ma＋　エムエークロス　ビーニー　ワッチ　コットンカシミヤ",
-    "price": 205,
-    "created": "1730023425",
-    "updated": "1740680626",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m89778572851_1.jpg?1730023425"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "1",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "14",
-    "categoryId": "371",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m89778572851_1.jpg?1730023425"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m89778572851",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m67473202067",
     "sellerId": "910020089",
     "buyerId": "",
