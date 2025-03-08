@@ -703,7 +703,7 @@
     "name": "名作 MA+ エムエークロス LACE STITCHED SHOES",
     "price": 726,
     "created": "1733285949",
-    "updated": "1741059568",
+    "updated": "1741435451",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m77409711317_1.jpg?1733285949"
     ],
@@ -888,7 +888,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1503,7 +1510,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "15"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
