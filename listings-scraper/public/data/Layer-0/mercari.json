@@ -235,53 +235,6 @@
     "location": "japan"
   },
   {
-    "id": "m46384129723",
-    "sellerId": "996263302",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "layer-0 レイヤーゼロ　ウール　アンクル丈パンツ　46サイズ",
-    "price": 221,
-    "created": "1723474824",
-    "updated": "1740838759",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m46384129723_1.jpg?1723474824"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "2",
-    "shippingPayerId": "2",
-    "itemSizes": [
-      {
-        "id": "3",
-        "name": "M"
-      }
-    ],
-    "itemBrand": {
-      "id": "53417",
-      "name": "レイヤーゼロ",
-      "subName": "LAYER-0"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": {
-      "id": "3",
-      "name": "M"
-    },
-    "shippingMethodId": "17",
-    "categoryId": "344",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m46384129723_1.jpg?1723474824"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m46384129723",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m61014149528",
     "sellerId": "277860098",
     "buyerId": "",
