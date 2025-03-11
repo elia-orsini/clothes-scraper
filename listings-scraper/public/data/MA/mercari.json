@@ -1250,6 +1250,53 @@
     "location": "japan"
   },
   {
+    "id": "m19835747868",
+    "sellerId": "171922112",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "ma+ staple/laces short boots エムエークロスブーツ",
+    "price": 1144,
+    "created": "1719826868",
+    "updated": "1741696372",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m19835747868_1.jpg?1720198048"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "1",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "11",
+        "name": "27cm"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "11",
+      "name": "27cm"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "1486",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m19835747868_1.jpg?1720198048"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m19835747868",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m18526562906",
     "sellerId": "784545002",
     "buyerId": "",
