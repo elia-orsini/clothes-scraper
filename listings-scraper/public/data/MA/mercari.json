@@ -83,9 +83,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ シルクガウン Carbon 44",
-    "price": 666,
+    "price": 665,
     "created": "1741011606",
-    "updated": "1741013843",
+    "updated": "1741696811",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m87329292020_1.jpg?1741011606"
     ],
@@ -966,14 +966,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "15"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
