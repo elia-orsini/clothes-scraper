@@ -197,14 +197,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "5"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -246,14 +239,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "5"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "14",
@@ -1763,9 +1749,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 221,
+    "price": 219,
     "created": "1691428403",
-    "updated": "1741828697",
+    "updated": "1741882897",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
