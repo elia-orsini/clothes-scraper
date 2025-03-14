@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "MA＋ レザーテーラードジャケット　エムエークロス　46",
-    "price": 867,
+    "price": 809,
     "created": "1741846940",
-    "updated": "1741870469",
+    "updated": "1741954240",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m27352490708_1.jpg?1741846940"
     ],
@@ -1064,7 +1064,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "4",
