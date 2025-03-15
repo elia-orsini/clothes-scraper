@@ -78,45 +78,6 @@
     "location": "japan"
   },
   {
-    "id": "m16618369158",
-    "sellerId": "348243757",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+ yen wallet W10",
-    "price": 130,
-    "created": "1741610969",
-    "updated": "1741610969",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m16618369158_1.jpg?1741610969"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "4",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "14",
-    "categoryId": "384",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m16618369158_1.jpg?1741610969"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m16618369158",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m87329292020",
     "sellerId": "147260717",
     "buyerId": "",
