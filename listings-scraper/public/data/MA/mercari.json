@@ -5,9 +5,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+(エムエークロス)ネックレス",
-    "price": 91,
+    "price": 89,
     "created": "1742046136",
-    "updated": "1742117919",
+    "updated": "1742126760",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m87011828810_1.jpg?1742046136"
     ],
@@ -1024,7 +1024,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "4",
