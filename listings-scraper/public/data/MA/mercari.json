@@ -1,5 +1,52 @@
 [
   {
+    "id": "m20631081798",
+    "sellerId": "958572671",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "美品m.a.+エムエークロス名作ウォッシャブルカーフレザーシャツ黒46",
+    "price": 520,
+    "created": "1742217767",
+    "updated": "1742217767",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m20631081798_1.jpg?1742217767"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "2",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "7617",
+      "name": "エムエークロス",
+      "subName": "m.a+"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "14",
+    "categoryId": "10850",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m20631081798_1.jpg?1742217767"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m20631081798",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m87011828810",
     "sellerId": "913245936",
     "buyerId": "",
