@@ -1435,10 +1435,10 @@
     "sellerId": "901483762",
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
-    "name": "超稀少品  m.a+ medium fitted shirt",
+    "name": "超稀少品 m.a+ medium fitted shirt アマディ着用",
     "price": 925,
     "created": "1713934138",
-    "updated": "1713934168",
+    "updated": "1742288607",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m70338062044_1.jpg?1713934138"
     ],
@@ -1545,7 +1545,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "17",
