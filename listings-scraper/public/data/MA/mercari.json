@@ -47,45 +47,6 @@
     "location": "japan"
   },
   {
-    "id": "m87011828810",
-    "sellerId": "913245936",
-    "buyerId": "",
-    "status": "ITEM_STATUS_ON_SALE",
-    "name": "m.a+(エムエークロス)ネックレス",
-    "price": 81,
-    "created": "1742046136",
-    "updated": "1742300025",
-    "thumbnails": [
-      "https://static.mercdn.net/item/detail/orig/photos/m87011828810_1.jpg?1742046136"
-    ],
-    "itemType": "ITEM_TYPE_MERCARI",
-    "itemConditionId": "1",
-    "shippingPayerId": "2",
-    "itemSizes": [],
-    "itemBrand": {
-      "id": "7617",
-      "name": "エムエークロス",
-      "subName": "m.a+"
-    },
-    "itemPromotions": [],
-    "shopName": "",
-    "itemSize": null,
-    "shippingMethodId": "17",
-    "categoryId": "376",
-    "isNoPrice": false,
-    "title": "",
-    "isLiked": false,
-    "photos": [
-      {
-        "uri": "https://static.mercdn.net/item/detail/webp/photos/m87011828810_1.jpg?1742046136"
-      }
-    ],
-    "auction": null,
-    "href": "https://jp.mercari.com/item/m87011828810",
-    "website": "mercari",
-    "location": "japan"
-  },
-  {
     "id": "m35863239931",
     "sellerId": "348243757",
     "buyerId": "",
@@ -224,9 +185,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ 長財布",
-    "price": 151,
+    "price": 141,
     "created": "1740461719",
-    "updated": "1740621981",
+    "updated": "1742354100",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m95737345453_1.jpg?1740461719"
     ],
@@ -474,9 +435,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "M.A+ エムエークロス　コードバン　レザーシャツ　馬革　44 オーバーロック",
-    "price": 669,
+    "price": 668,
     "created": "1735358353",
-    "updated": "1742250510",
+    "updated": "1742356204",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31220374446_1.jpg?1735358353"
     ],
