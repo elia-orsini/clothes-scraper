@@ -709,9 +709,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a＋ エムエークロス　レザー　ベルト　leather belt",
-    "price": 623,
+    "price": 622,
     "created": "1733326060",
-    "updated": "1740671588",
+    "updated": "1742486117",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m17792373528_1.jpg?1733326060"
     ],
@@ -748,9 +748,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a＋ エムエークロス　レザー　トートバッグ leather bag",
-    "price": 1299,
+    "price": 1298,
     "created": "1733325346",
-    "updated": "1740671654",
+    "updated": "1742486177",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m38752867453_1.jpg?1733325346"
     ],
@@ -881,9 +881,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ silver stitched cross ring クロス　リング",
-    "price": 311,
+    "price": 310,
     "created": "1732803753",
-    "updated": "1740673605",
+    "updated": "1742488093",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m78896354279_1.jpg?1732803753"
     ],
@@ -1323,7 +1323,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
@@ -1757,9 +1764,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "エムエークロス 十字 レザーバングル ma+",
-    "price": 216,
+    "price": 214,
     "created": "1691428403",
-    "updated": "1742086054",
+    "updated": "1742485252",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m94374547771_1.jpg?1691428403"
     ],
