@@ -787,9 +787,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "名作 MA+ エムエークロス LACE STITCHED SHOES",
-    "price": 726,
+    "price": 725,
     "created": "1733285949",
-    "updated": "1741435451",
+    "updated": "1742471818",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m77409711317_1.jpg?1733285949"
     ],
@@ -1018,7 +1018,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "4",
@@ -1211,7 +1218,7 @@
     "name": "m.a+ エムエークロス レザージャケットsize46",
     "price": 762,
     "created": "1722121594",
-    "updated": "1742035310",
+    "updated": "1742469788",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31606674092_1.jpg?1722121594"
     ],
