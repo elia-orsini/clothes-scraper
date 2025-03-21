@@ -920,9 +920,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "m.a+ belt black size m エムエークロス　ベルト",
-    "price": 286,
+    "price": 281,
     "created": "1731690803",
-    "updated": "1742303633",
+    "updated": "1742557866",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m42524970996_1.jpg?1731690803"
     ],
@@ -1025,7 +1025,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "10"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "4",
