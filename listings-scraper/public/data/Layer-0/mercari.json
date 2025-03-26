@@ -188,6 +188,53 @@
     "location": "japan"
   },
   {
+    "id": "m66457518626",
+    "sellerId": "441081644",
+    "buyerId": "",
+    "status": "ITEM_STATUS_ON_SALE",
+    "name": "layer-0 ネイビー　リネン長袖シャツ",
+    "price": 354,
+    "created": "1725762802",
+    "updated": "1741298198",
+    "thumbnails": [
+      "https://static.mercdn.net/item/detail/orig/photos/m66457518626_1.jpg?1725762802"
+    ],
+    "itemType": "ITEM_TYPE_MERCARI",
+    "itemConditionId": "3",
+    "shippingPayerId": "1",
+    "itemSizes": [
+      {
+        "id": "3",
+        "name": "M"
+      }
+    ],
+    "itemBrand": {
+      "id": "53417",
+      "name": "レイヤーゼロ",
+      "subName": "LAYER-0"
+    },
+    "itemPromotions": [],
+    "shopName": "",
+    "itemSize": {
+      "id": "3",
+      "name": "M"
+    },
+    "shippingMethodId": "1",
+    "categoryId": "1714",
+    "isNoPrice": false,
+    "title": "",
+    "isLiked": false,
+    "photos": [
+      {
+        "uri": "https://static.mercdn.net/item/detail/webp/photos/m66457518626_1.jpg?1725762802"
+      }
+    ],
+    "auction": null,
+    "href": "https://jp.mercari.com/item/m66457518626",
+    "website": "mercari",
+    "location": "japan"
+  },
+  {
     "id": "m61014149528",
     "sellerId": "277860098",
     "buyerId": "",
