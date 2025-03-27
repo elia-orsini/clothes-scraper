@@ -3,6 +3,7 @@ module.exports = {
     ignoreDuringBuilds: false,
   },
   images: {
+    minimumCacheTTL: 2592000, // 30 days
     remotePatterns: [
       {
         protocol: "https",
