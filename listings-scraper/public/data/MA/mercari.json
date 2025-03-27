@@ -1303,9 +1303,9 @@
     "buyerId": "",
     "status": "ITEM_STATUS_ON_SALE",
     "name": "00s archive ma＋　maurizio amadie necklace",
-    "price": 152,
+    "price": 151,
     "created": "1725112649",
-    "updated": "1741022465",
+    "updated": "1743095516",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m99101136568_1.jpg?1725112649"
     ],
@@ -1456,7 +1456,14 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [],
+    "itemPromotions": [
+      {
+        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
+        "details": {
+          "percentage": "5"
+        }
+      }
+    ],
     "shopName": "",
     "itemSize": {
       "id": "3",
