@@ -140,7 +140,7 @@
     "name": "美品m.a.+エムエークロス名作ウォッシャブルカーフレザーシャツ黒46",
     "price": 520,
     "created": "1742217767",
-    "updated": "1742217767",
+    "updated": "1743082217",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m20631081798_1.jpg?1742217767"
     ],
@@ -1107,14 +1107,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "14"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": null,
     "shippingMethodId": "8",
@@ -1158,14 +1151,7 @@
       "name": "エムエークロス",
       "subName": "m.a+"
     },
-    "itemPromotions": [
-      {
-        "type": "ITEM_PROMOTION_TYPE_AGGREGATE_DISCOUNT",
-        "details": {
-          "percentage": "10"
-        }
-      }
-    ],
+    "itemPromotions": [],
     "shopName": "",
     "itemSize": {
       "id": "4",
@@ -1358,7 +1344,7 @@
     "name": "m.a+ エムエークロス レザージャケットsize46",
     "price": 759,
     "created": "1722121594",
-    "updated": "1742994800",
+    "updated": "1743082561",
     "thumbnails": [
       "https://static.mercdn.net/item/detail/orig/photos/m31606674092_1.jpg?1722121594"
     ],
